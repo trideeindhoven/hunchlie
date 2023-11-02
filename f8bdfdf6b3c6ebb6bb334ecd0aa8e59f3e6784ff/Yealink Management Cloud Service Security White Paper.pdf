@@ -430,10 +430,10 @@
               <li class="on">
                 <div
                   class="pic"
-                  onclick="window.open('https://www.yealink.com/en/onepage/microsoft-teams-rooms-mvciii')"
-                  data-pc-img="https://www.yealink.com/website-service/attachment/home_page/image/20230904/20230904054951481e666b06d420a80c1df5a0ff21d27.jpg"
-                  data-mobile-img="https://www.yealink.com/website-service/attachment/home_page/image/20230904/20230904054959351c6d8b217462292f08de053fc6829.jpg"
-                  style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20230904/20230904054951481e666b06d420a80c1df5a0ff21d27.jpg);"
+                  onclick="window.open('https://www.yealink.com/en/onepage/transcend-the-modern-workspace')"
+                  data-pc-img="https://www.yealink.com/website-service/attachment/home_page/image/20231030/2023103002003278e6e6eb104b408a46719a09229809.jpg"
+                  data-mobile-img="https://www.yealink.com/website-service/attachment/home_page/image/20231030/20231030020035760c117780b44479fc603aee9485d60.jpg"
+                  style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20231030/2023103002003278e6e6eb104b408a46719a09229809.jpg);"
                 ></div>
               </li>
             
@@ -450,16 +450,6 @@
               <li >
                 <div
                   class="pic"
-                  onclick="window.open('https://www.yealink.com/en/onepage/dect-headset-phone-solution')"
-                  data-pc-img="https://www.yealink.com/website-service/attachment/home_page/image/20230608/20230608053742128e9f625444f27957385c31a37d025.jpg"
-                  data-mobile-img="https://www.yealink.com/website-service/attachment/home_page/image/20230608/20230608053754234a8d757914f38ad29ade1356c2917.jpg"
-                  style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20230608/20230608053742128e9f625444f27957385c31a37d025.jpg);"
-                ></div>
-              </li>
-            
-              <li >
-                <div
-                  class="pic"
                   onclick="window.open('https://www.yealink.com/en/product-detail/headset-bh71')"
                   data-pc-img="https://www.yealink.com/website-service/attachment/home_page/image/20230117/2023011709044655b547581c40e78ad3a28981579edd.jpg"
                   data-mobile-img="https://www.yealink.com/website-service/attachment/home_page/image/20230117/20230117090451329f35713d54b0f8eaa0589fda23d95.jpg"
@@ -470,10 +460,20 @@
               <li >
                 <div
                   class="pic"
-                  onclick="window.open('https://www.yealink.com/en/product-detail/microsoft-teams-rooms-meetingboard65')"
-                  data-pc-img="https://www.yealink.com/website-service/attachment/home_page/image/20230721/202307210856096407e05dcf241bcb8b571f2d6e68f3a.jpg"
-                  data-mobile-img="https://www.yealink.com/website-service/attachment/home_page/image/20230721/202307210855565338803eee346cf834f5e7039e53d97.jpg"
-                  style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20230721/202307210856096407e05dcf241bcb8b571f2d6e68f3a.jpg);"
+                  onclick="window.open('https://www.yealink.com/en/onepage/microsoft-teams-rooms-mvciii')"
+                  data-pc-img="https://www.yealink.com/website-service/attachment/home_page/image/20230904/20230904054951481e666b06d420a80c1df5a0ff21d27.jpg"
+                  data-mobile-img="https://www.yealink.com/website-service/attachment/home_page/image/20230904/20230904054959351c6d8b217462292f08de053fc6829.jpg"
+                  style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20230904/20230904054951481e666b06d420a80c1df5a0ff21d27.jpg);"
+                ></div>
+              </li>
+            
+              <li >
+                <div
+                  class="pic"
+                  onclick="window.open('https://www.yealink.com/en/onepage/dect-headset-phone-solution')"
+                  data-pc-img="https://www.yealink.com/website-service/attachment/home_page/image/20230608/20230608053742128e9f625444f27957385c31a37d025.jpg"
+                  data-mobile-img="https://www.yealink.com/website-service/attachment/home_page/image/20230608/20230608053754234a8d757914f38ad29ade1356c2917.jpg"
+                  style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20230608/20230608053742128e9f625444f27957385c31a37d025.jpg);"
                 ></div>
               </li>
             
@@ -493,7 +493,7 @@
           
             
               <li data-num="0" class="on">
-                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> 3rd-Gen MTR Solutions</h1>
+                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> Collaboration Display</h1>
               </li>
             
               <li data-num="1" >
@@ -501,15 +501,15 @@
               </li>
             
               <li data-num="2" >
-                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> Connect without Limits</h1>
-              </li>
-            
-              <li data-num="3" >
                 <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> BH7X Bluetooth Headsets</h1>
               </li>
             
+              <li data-num="3" >
+                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> 3rd-Gen MTR Solutions</h1>
+              </li>
+            
               <li data-num="4" >
-                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> Collaboration Display</h1>
+                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> Connect without Limits</h1>
               </li>
             
               <li data-num="5" >
