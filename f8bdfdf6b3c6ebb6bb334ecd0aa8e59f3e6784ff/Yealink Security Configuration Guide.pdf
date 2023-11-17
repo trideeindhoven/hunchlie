@@ -480,6 +480,16 @@
               <li >
                 <div
                   class="pic"
+                  onclick="window.open('https://l.feathr.co/EC24_Yealink')"
+                  data-pc-img="https://www.yealink.com/website-service/attachment/home_page/image/20231116/20231116020446403754036904b018ecd891bbf9c73d0.jpg"
+                  data-mobile-img="https://www.yealink.com/website-service/attachment/home_page/image/20231116/202311160205021229a759d8442619846913130362d94.jpg"
+                  style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20231116/20231116020446403754036904b018ecd891bbf9c73d0.jpg);"
+                ></div>
+              </li>
+            
+              <li >
+                <div
+                  class="pic"
                   onclick="window.open('https://ignite.microsoft.com/en-US/partners/27e0cf4e-3a46-4e93-94b4-4b15193453b0')"
                   data-pc-img="https://www.yealink.com/website-service/attachment/home_page/image/20231026/20231026020235835e39e27cf466cbee6e26ded0ed493.jpg"
                   data-mobile-img="https://www.yealink.com/website-service/attachment/home_page/image/20231026/20231026020241407ffac846746d09ab03a54a1e63d50.jpg"
@@ -513,6 +523,10 @@
               </li>
             
               <li data-num="5" >
+                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> Meet Yealink At EC 2024</h1>
+              </li>
+            
+              <li data-num="6" >
                 <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> Meet Us At Ignite 2023</h1>
               </li>
             
