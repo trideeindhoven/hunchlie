@@ -18,12 +18,12 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
     <meta name="renderer" content="webkit" />
     <meta name="format-detection" content="telephone=no" />
-    <meta name="version" content="prod-v10-sp3.1-22"/>
+    <meta name="version" content="prod-v10-sp3.1-23"/>
     <meta name="keywords" content="Yealink | UC &amp; C Terminal, Video Collaboration, Conference Phone, IP Phone, Headsets &amp; Video Conferencing"/>
     <meta name="description" content="Yealink (Stock Code: 300628) is a global brand that specializes in video conferencing, voice communications and collaboration solutions with best-in-class quality, innovative technology and user-friendly experience. As one of the best providers in more than 140 countries and regions, Yealink ranks No.1 in the global market share of SIP phone shipments (Global IP Desktop Phone Growth Excellence Leadership Award Report, Frost &amp; Sullivan, 2019)."/>
     <title>Yealink | UC &amp; C Terminal, Video Collaboration, Conference Phone, IP Phone, Headsets &amp; Video Conferencing</title>
     <link rel="icon" href="/public/favicon.ico"/>
-    <link rel="stylesheet" href="/public/fonts/iconfont.css?v=prod-v10-sp3.1-22"/>
+    <link rel="stylesheet" href="/public/fonts/iconfont.css?v=prod-v10-sp3.1-23"/>
     <style>
       @font-face {
         font-family: articleFontRegular;
@@ -42,18 +42,18 @@
         src: url("/public/font/Product-Sans-Bold-3.ttf");
       }
     </style>
-    <link rel="stylesheet" href="/public/css/styles.css?v=prod-v10-sp3.1-22"/>
+    <link rel="stylesheet" href="/public/css/styles.css?v=prod-v10-sp3.1-23"/>
     
-    <link href="/public/web-dist/css/main.80073ac7c21eb257fba5.css" rel="stylesheet"><link href="/public/web-dist/css/home.80073ac7c21eb257fba5.css" rel="stylesheet">
+    <link href="/public/web-dist/css/main.7c30d3a9ca4f412e2486.css" rel="stylesheet"><link href="/public/web-dist/css/home.7c30d3a9ca4f412e2486.css" rel="stylesheet">
     
-    <script type="text/javascript" src="/public/lib/package.js?v=prod-v10-sp3.1-22"></script>
+    <script type="text/javascript" src="/public/lib/package.js?v=prod-v10-sp3.1-23"></script>
     <script type="text/javascript" src="/public/lib/layer/layer.min.js"></script>
     <script type="text/javascript">
       var apiBaseUrl = 'https://www.yealink.com/website-service'
       window.history.scrollRestoration = 'manual'
     </script>
     
-  <link rel="stylesheet" href="/public/css/home.css?v=prod-v10-sp3.1-22" />
+  <link rel="stylesheet" href="/public/css/home.css?v=prod-v10-sp3.1-23" />
 
   </head>
   
@@ -138,7 +138,7 @@
     <img src="/public/images/logo_2021_en.png" alt="Yealink | UC &amp; C Terminal, Video Collaboration, Conference Phone, IP Phone, Headsets &amp; Video Conferencing" />
   </a>
   <div id="google_translate_element"></div>
-  <nav class="menu">
+  <nav class="menu notranslate">
     <ul class="menulist clear">
       <li class='go_down' data-id='1'><a target='' rel=''>Products</a></li><li class='go_down' data-id='5'><a target='' rel=''>Solutions</a></li><li class='go_down' data-id='12'><a target='' rel=''>Support</a></li><li class='go_down' data-id='13'><a target='' rel=''>Partners</a></li><li class='go_down' data-id='14'><a target='' rel=''>Company</a></li>
     </ul>
@@ -217,7 +217,7 @@
   <a class="goTop">
     <i class="iconfont notranslate">&#xe672;</i>
   </a>
-  <div id="new-menu">
+  <div id="new-menu" class="notranslate">
     <div class="mask"></div>
     <div class="mid">
       <div class="fullCol">
@@ -247,7 +247,7 @@
       </div>
     </div>
   </div>
-  <div id="new-menu-app">
+  <div id="new-menu-app" class="notranslate">
     <div class="top">
       <a class="go-back iconfont notranslate">&#xe61a;</a>
       <div class="app-title"></div>
@@ -387,7 +387,7 @@
     <!-- 主体内容 -->
     <main class="wip-layout-body" id="wip_layout_body">
       
-<article class="index">
+<article class="index notranslate">
   <div class="btns Tbtn">
     <ul class="animateall">
       
@@ -480,20 +480,20 @@
               <li >
                 <div
                   class="pic"
-                  onclick="window.open('https://l.feathr.co/EC24_Yealink')"
-                  data-pc-img="https://www.yealink.com/website-service/attachment/home_page/image/20231116/20231116020446403754036904b018ecd891bbf9c73d0.jpg"
-                  data-mobile-img="https://www.yealink.com/website-service/attachment/home_page/image/20231116/202311160205021229a759d8442619846913130362d94.jpg"
-                  style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20231116/20231116020446403754036904b018ecd891bbf9c73d0.jpg);"
+                  onclick="window.open('https://www.yealink.com/en/onepage/stories-with-yealink')"
+                  data-pc-img="https://www.yealink.com/website-service/attachment/home_page/image/20231201/2023120103470749388ad88a84ebb8e66c77b2dbba4f9.jpg"
+                  data-mobile-img="https://www.yealink.com/website-service/attachment/home_page/image/20231201/202312010350171506124ed824ffab44e293edb650ad2.jpg"
+                  style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20231201/2023120103470749388ad88a84ebb8e66c77b2dbba4f9.jpg);"
                 ></div>
               </li>
             
               <li >
                 <div
                   class="pic"
-                  onclick="window.open('https://ignite.microsoft.com/en-US/partners/27e0cf4e-3a46-4e93-94b4-4b15193453b0')"
-                  data-pc-img="https://www.yealink.com/website-service/attachment/home_page/image/20231026/20231026020235835e39e27cf466cbee6e26ded0ed493.jpg"
-                  data-mobile-img="https://www.yealink.com/website-service/attachment/home_page/image/20231026/20231026020241407ffac846746d09ab03a54a1e63d50.jpg"
-                  style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20231026/20231026020235835e39e27cf466cbee6e26ded0ed493.jpg);"
+                  onclick="window.open('https://www.yealink.com/en/onepage/yealink-at-ise-2024')"
+                  data-pc-img="https://www.yealink.com/website-service/attachment/home_page/image/20231207/202312070923273863bf7f72d49c7bf5758a6f82818f6.jpg"
+                  data-mobile-img="https://www.yealink.com/website-service/attachment/home_page/image/20231207/20231207095756852a2f58e049209c64085f0acd5a21.jpg"
+                  style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20231207/202312070923273863bf7f72d49c7bf5758a6f82818f6.jpg);"
                 ></div>
               </li>
             
@@ -523,11 +523,11 @@
               </li>
             
               <li data-num="5" >
-                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> Meet Yealink At EC 2024</h1>
+                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> Stories With Yealink</h1>
               </li>
             
               <li data-num="6" >
-                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> Meet Us At Ignite 2023</h1>
+                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> Yealink at ISE 2024</h1>
               </li>
             
            
@@ -619,9 +619,7 @@
                           src="https://www.yealink.com/upfiles/files/yealinkmeeting.png"
                           alt="VIDEO CONFERENCING PLATFORM"
                         />
-                        <h3 class="item-title1">
-                          VIDEO CONFERENCING PLATFORM
-                        </h3>
+                        <h3 class="item-title1"> VIDEO CONFERENCING PLATFORM </h3>
                         <div class="item-btn">
                           <i class="iconfont notranslate">&#xeb78;</i>
                         </div>
@@ -722,7 +720,7 @@
                 <div class="sti1-child-left"><span>02</span></div>
                 <div class="sti1-child-right">
                   <h3 class="sti1-child-right-t " data-id="2">
-                    <span class="notranslate">ZOOM </span> SOLUTIONS
+                    ZOOM SOLUTIONS
                   </h3>
                   <h4 class="sti1-child-right-d">
                     Full range of audio and video device solutions for Zoom,
@@ -826,14 +824,14 @@
         </div>
       </div>
       <div class="screen-five-desc">
-        Yealink (Stock Code: 300628) is a global-leading provider of Unified Communication & Collaboration Solutions specialized in video conferencing, voice communications, and collaboration, dedicated to helping every person and organization embrace the power of "Easy Collaboration, High Productivity". Yealink <span class="notranslate">ranks No.1 in the global market share of IP Phone and is the Top 5 leader in the video conferencing market (Frost &amp; Sullivan, 2021).</span>
+      Yealink (Stock Code: 300628) is a global-leading provider of Unified Communication &amp; Collaboration Solutions specialized in video conferencing, voice communications, and collaboration, dedicated to helping every person and organization embrace the power of &quot;Easy Collaboration, High Productivity&quot;.Yealink ranks No.1 in the global market share of IP Phone and is the Top 5 leader in the video conferencing market (Frost &amp; Sullivan, 2021).
       </div>
       <div class="screen-five-certificate">
         <div class="sfci">
           <div class="sfci-img"></div>
           <div class="sfci-d">
             <div class="sfci-d-top">
-              *Frost&Sullivan 2019 Global Open SIP Phone Leadership Award
+              *Frost&amp;Sullivan 2019 Global Open SIP Phone Leadership Award
             </div>
             <div class="sfci-d-bottom"></div>
           </div>
@@ -842,7 +840,7 @@
           <div class="sfci-img"></div>
           <div class="sfci-d">
             <div class="sfci-d-top">
-              *Frost&Sullivan 2020 Global Tabletop Audio Conferencing Endpoint
+              *Frost&amp;Sullivan 2020 Global Tabletop Audio Conferencing Endpoint
               Award
             </div>
             <div class="sfci-d-bottom"></div>
@@ -851,7 +849,9 @@
         <div class="sfci">
           <div class="sfci-img"></div>
           <div class="sfci-d">
-            <div class="sfci-d-top">*ITSPA Awards 2019 Best VoIP Device</div>
+            <div class="sfci-d-top">
+            *ITSPA Awards 2019 Best VoIP Device
+            </div>
             <div class="sfci-d-bottom"></div>
           </div>
         </div>
@@ -861,7 +861,7 @@
   <section class="screen-six clear">
     <div class="screen-six-main">
       <div class="screen-six-header">
-        <h2 class="screen-six-title">NEWS & INSIGHTS </h2>
+        <h2 class="screen-six-title">NEWS &amp; INSIGHTS </h2>
         <button
           class="screen-six-btn"
           onclick="window.open('https://www.yealink.com/en/news')"
@@ -871,6 +871,24 @@
       </div>
       <div class="screen-six-list">
       
+        
+            
+            <div class="screen-six-list-item">
+              <div
+                class="ssli-img"
+                style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20231122/20231122060944766934bf43844b1a2f48277555c2161.jpg)"
+              ></div>
+              <div class="ssli-date">
+                NEWS 2023-11-22
+              </div>
+              <h3 class="ssli-t">Annual Satisfaction Questionnaire:We Are Expecting Your Voice!</h3>
+              <div class="ssli-more">
+                <a href="https://www.yealink.com/en/onepage/yealink-reseller-satisfaction-survey-2023" target="_blank"
+                  >READ IT<i class="iconfont notranslate">&#xeb78;</i></a
+                >
+              </div>
+            </div>
+            
         
             
             <div class="screen-six-list-item">
@@ -908,22 +926,6 @@
             </div>
             
         
-            
-            <div class="screen-six-list-item">
-              <div
-                class="ssli-img"
-                style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20230718/20230718012049684dc982a024e35aac631dffbca1206.jpg)"
-              ></div>
-              <div class="ssli-date">
-                NEWS 2023-07-17
-              </div>
-              <h3 class="ssli-t">Yealink Announces Partnership with Exertis Almo</h3>
-              <div class="ssli-more">
-                <a href="https://www.yealink.com/en/news/yealink-announces-partnership-with-exertis-almo" target="_blank"
-                  >READ IT<i class="iconfont notranslate">&#xeb78;</i></a
-                >
-              </div>
-            </div>
             
         
       
@@ -1017,7 +1019,7 @@
     
     <!-- 底部 -->
     <footer class="footer">
-  <div class="maxsize sitemap clear animateall sitemap-top" style="width: auto;box-sizing:content-box;">
+  <div class="maxsize sitemap clear animateall sitemap-top notranslate" style="width: auto;box-sizing:content-box;">
     
       <dl>
         <dt>
@@ -1284,6 +1286,7 @@
     </div>
   </div>
 </footer>
+
     <div class="cookies-banner-pop-container">
 	
 	<div class="cookies-banner-pop-window-pc">
@@ -1499,9 +1502,9 @@
     
   <script src="/public/lib/script/classie.js"></script>
   <script src="/public/lib/script/bxslider.js"></script>
-  <script src="/public/lib/script/home.js?v=prod-v10-sp3.1-22"></script>
+  <script src="/public/lib/script/home.js?v=prod-v10-sp3.1-23"></script>
 
-    <script type="text/javascript" src="/public/web-dist/js/main.80073ac7c21eb257fba5.js"></script><script type="text/javascript" src="/public/web-dist/js/home.80073ac7c21eb257fba5.js"></script>
+    <script type="text/javascript" src="/public/web-dist/js/main.7c30d3a9ca4f412e2486.js"></script><script type="text/javascript" src="/public/web-dist/js/home.7c30d3a9ca4f412e2486.js"></script>
 
     
     <script>
@@ -1523,17 +1526,31 @@
     }
 
     document.addEventListener('DOMContentLoaded', function() {
+      
       //英文环境下不调用谷歌翻译
       if('en' === 'en') {
         return 
       }
-      
        //在页面加载完成后调用翻译操作
       changeGoogleLanguage('en');
       setTimeout(() => {
         document.querySelector('body').setAttribute('style', '');
       }, 100)
     });
+
+    var languageBag = sessionStorage.getItem(`language-${systemLanguage}`)
+    if (!languageBag) {
+      httpRequest.get('/changeLanguage', { lang: systemLanguage === 'en' ? 'en_US' : systemLanguage }).then((res) => {
+        if (res.success) {
+          sessionStorage.setItem(`language-${systemLanguage}`, JSON.stringify(res.obj))
+          window[`language-${systemLanguage}`] = res.obj
+        }
+      }).catch(() => {
+      })
+    } else {
+      window[`language-${systemLanguage}`] = JSON.parse(languageBag)
+    }
+    
   </script>
   </body>
 </html>
