@@ -18,12 +18,12 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
     <meta name="renderer" content="webkit" />
     <meta name="format-detection" content="telephone=no" />
-    <meta name="version" content="prod-v10-sp3.1-23"/>
-    <meta name="keywords" content="Yealink | UC &amp; C Terminal, Video Collaboration, Conference Phone, IP Phone, Headsets &amp; Video Conferencing"/>
+    <meta name="version" content="prod-v10-sp3.1-28"/>
+    <meta name="keywords" content="Yealink,Conference Phone,IP Phone,sip phone,voip phone,wireless headset,phone headset,Video Conferencing,microsoft teams phone,video conferencing devices"/>
     <meta name="description" content="Yealink (Stock Code: 300628) is a global brand that specializes in video conferencing, voice communications and collaboration solutions with best-in-class quality, innovative technology and user-friendly experience. As one of the best providers in more than 140 countries and regions, Yealink ranks No.1 in the global market share of SIP phone shipments (Global IP Desktop Phone Growth Excellence Leadership Award Report, Frost &amp; Sullivan, 2019)."/>
     <title>Yealink | UC &amp; C Terminal, Video Collaboration, Conference Phone, IP Phone, Headsets &amp; Video Conferencing</title>
     <link rel="icon" href="/public/favicon.ico"/>
-    <link rel="stylesheet" href="/public/fonts/iconfont.css?v=prod-v10-sp3.1-23"/>
+    <link rel="stylesheet" href="/public/fonts/iconfont.css?v=prod-v10-sp3.1-28"/>
     <style>
       @font-face {
         font-family: articleFontRegular;
@@ -42,18 +42,18 @@
         src: url("/public/font/Product-Sans-Bold-3.ttf");
       }
     </style>
-    <link rel="stylesheet" href="/public/css/styles.css?v=prod-v10-sp3.1-23"/>
+    <link rel="stylesheet" href="/public/css/styles.css?v=prod-v10-sp3.1-28"/>
     
-    <link href="/public/web-dist/css/main.7c30d3a9ca4f412e2486.css" rel="stylesheet"><link href="/public/web-dist/css/home.7c30d3a9ca4f412e2486.css" rel="stylesheet">
+    <link href="/public/web-dist/css/main.06cba11f90c4cac9e373.css" rel="stylesheet"><link href="/public/web-dist/css/home.06cba11f90c4cac9e373.css" rel="stylesheet">
     
-    <script type="text/javascript" src="/public/lib/package.js?v=prod-v10-sp3.1-23"></script>
+    <script type="text/javascript" src="/public/lib/package.js?v=prod-v10-sp3.1-28"></script>
     <script type="text/javascript" src="/public/lib/layer/layer.min.js"></script>
     <script type="text/javascript">
       var apiBaseUrl = 'https://www.yealink.com/website-service'
       window.history.scrollRestoration = 'manual'
     </script>
     
-  <link rel="stylesheet" href="/public/css/home.css?v=prod-v10-sp3.1-23" />
+  <link rel="stylesheet" href="/public/css/home.css?v=prod-v10-sp3.1-28" />
 
   </head>
   
@@ -134,8 +134,8 @@
     
     <!-- 头部 -->
     <header class="header animate">
-  <a href="https://www.yealink.com/en" title="Yealink | UC &amp; C Terminal, Video Collaboration, Conference Phone, IP Phone, Headsets &amp; Video Conferencing" class="logo">
-    <img src="/public/images/logo_2021_en.png" alt="Yealink | UC &amp; C Terminal, Video Collaboration, Conference Phone, IP Phone, Headsets &amp; Video Conferencing" />
+  <a href="https://www.yealink.com/en" title="Yealink,Conference Phone,IP Phone,sip phone,voip phone,wireless headset,phone headset,Video Conferencing,microsoft teams phone,video conferencing devices" class="logo">
+    <img src="/public/images/logo_2021_en.png" alt="Yealink,Conference Phone,IP Phone,sip phone,voip phone,wireless headset,phone headset,Video Conferencing,microsoft teams phone,video conferencing devices" />
   </a>
   <div id="google_translate_element"></div>
   <nav class="menu notranslate">
@@ -876,24 +876,6 @@
             <div class="screen-six-list-item">
               <div
                 class="ssli-img"
-                style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20231122/20231122060944766934bf43844b1a2f48277555c2161.jpg)"
-              ></div>
-              <div class="ssli-date">
-                NEWS 2023-11-22
-              </div>
-              <h3 class="ssli-t">Annual Satisfaction Questionnaire:We Are Expecting Your Voice!</h3>
-              <div class="ssli-more">
-                <a href="https://www.yealink.com/en/onepage/yealink-reseller-satisfaction-survey-2023" target="_blank"
-                  >READ IT<i class="iconfont notranslate">&#xeb78;</i></a
-                >
-              </div>
-            </div>
-            
-        
-            
-            <div class="screen-six-list-item">
-              <div
-                class="ssli-img"
                 style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20230831/2023083108041023f24dfc6748f599a8f9ffb07bdbc4.png)"
               ></div>
               <div class="ssli-date">
@@ -926,6 +908,22 @@
             </div>
             
         
+            
+            <div class="screen-six-list-item">
+              <div
+                class="ssli-img"
+                style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20230718/20230718012049684dc982a024e35aac631dffbca1206.jpg)"
+              ></div>
+              <div class="ssli-date">
+                NEWS 2023-07-17
+              </div>
+              <h3 class="ssli-t">Yealink Announces Partnership with Exertis Almo</h3>
+              <div class="ssli-more">
+                <a href="https://www.yealink.com/en/news/yealink-announces-partnership-with-exertis-almo" target="_blank"
+                  >READ IT<i class="iconfont notranslate">&#xeb78;</i></a
+                >
+              </div>
+            </div>
             
         
       
@@ -1502,9 +1500,9 @@
     
   <script src="/public/lib/script/classie.js"></script>
   <script src="/public/lib/script/bxslider.js"></script>
-  <script src="/public/lib/script/home.js?v=prod-v10-sp3.1-23"></script>
+  <script src="/public/lib/script/home.js?v=prod-v10-sp3.1-28"></script>
 
-    <script type="text/javascript" src="/public/web-dist/js/main.7c30d3a9ca4f412e2486.js"></script><script type="text/javascript" src="/public/web-dist/js/home.7c30d3a9ca4f412e2486.js"></script>
+    <script type="text/javascript" src="/public/web-dist/js/main.06cba11f90c4cac9e373.js"></script><script type="text/javascript" src="/public/web-dist/js/home.06cba11f90c4cac9e373.js"></script>
 
     
     <script>
@@ -1538,18 +1536,25 @@
       }, 100)
     });
 
-    var languageBag = sessionStorage.getItem(`language-${systemLanguage}`)
-    if (!languageBag) {
-      httpRequest.get('/changeLanguage', { lang: systemLanguage === 'en' ? 'en_US' : systemLanguage }).then((res) => {
-        if (res.success) {
-          sessionStorage.setItem(`language-${systemLanguage}`, JSON.stringify(res.obj))
-          window[`language-${systemLanguage}`] = res.obj
-        }
-      }).catch(() => {
+    function getLanguageBag(callback) {
+      var languageBag = sessionStorage.getItem(`language-${systemLanguage}`)
+      if (!languageBag) {
+        httpRequest.get('/changeLanguage', { lang: systemLanguage === 'en' ? 'en_US' : systemLanguage }).then((res) => {
+          if (res.success) {
+            sessionStorage.setItem(`language-${systemLanguage}`, JSON.stringify(res.obj))
+            window[`language-${systemLanguage}`] = res.obj
+            callback && callback()
+          }
+        }).catch(() => {
       })
-    } else {
-      window[`language-${systemLanguage}`] = JSON.parse(languageBag)
+      } else {
+        window[`language-${systemLanguage}`] = JSON.parse(languageBag)
+        callback && callback()
+      }
     }
+
+    
+    
     
   </script>
   </body>
