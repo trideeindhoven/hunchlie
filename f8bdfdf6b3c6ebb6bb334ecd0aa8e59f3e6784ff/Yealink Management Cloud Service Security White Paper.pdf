@@ -480,16 +480,6 @@
               <li >
                 <div
                   class="pic"
-                  onclick="window.open('https://www.yealink.com/en/onepage/stories-with-yealink')"
-                  data-pc-img="https://www.yealink.com/website-service/attachment/home_page/image/20231201/2023120103470749388ad88a84ebb8e66c77b2dbba4f9.jpg"
-                  data-mobile-img="https://www.yealink.com/website-service/attachment/home_page/image/20231201/202312010350171506124ed824ffab44e293edb650ad2.jpg"
-                  style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20231201/2023120103470749388ad88a84ebb8e66c77b2dbba4f9.jpg);"
-                ></div>
-              </li>
-            
-              <li >
-                <div
-                  class="pic"
                   onclick="window.open('https://www.yealink.com/en/onepage/yealink-at-ise-2024')"
                   data-pc-img="https://www.yealink.com/website-service/attachment/home_page/image/20231207/202312070923273863bf7f72d49c7bf5758a6f82818f6.jpg"
                   data-mobile-img="https://www.yealink.com/website-service/attachment/home_page/image/20231207/20231207095756852a2f58e049209c64085f0acd5a21.jpg"
@@ -523,10 +513,6 @@
               </li>
             
               <li data-num="5" >
-                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> Stories With Yealink</h1>
-              </li>
-            
-              <li data-num="6" >
                 <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> Yealink at ISE 2024</h1>
               </li>
             
