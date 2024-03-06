@@ -13,17 +13,18 @@
       }
     </script>
     
+
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
     <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
     <meta name="renderer" content="webkit" />
     <meta name="format-detection" content="telephone=no" />
-    <meta name="version" content="prod-v10-sp3.1-29"/>
+    <meta name="version" content="prod-v10-sp3.1-30"/>
     <meta name="keywords" content="Yealink,Conference Phone,IP Phone,sip phone,voip phones,wireless headset,phone headset,Video Conferencing,microsoft teams phone,video conferencing devices"/>
     <meta name="description" content="Yealink (Stock Code: 300628) is a global brand that specializes in video conferencing, voice communications and collaboration solutions with best-in-class quality, innovative technology and user-friendly experience. As one of the best providers in more than 140 countries and regions, Yealink ranks No.1 in the global market share of SIP phone shipments (Global IP Desktop Phone Growth Excellence Leadership Award Report, Frost &amp; Sullivan, 2019)."/>
     <title>Yealink | UC &amp; C Terminal, Video Collaboration, Conference Phone, IP Phone, Headsets &amp; Video Conferencing</title>
     <link rel="icon" href="/public/favicon.ico"/>
-    <link rel="stylesheet" href="/public/fonts/iconfont.css?v=prod-v10-sp3.1-29"/>
+    <link rel="stylesheet" href="/public/fonts/iconfont.css?v=prod-v10-sp3.1-30"/>
     <style>
       @font-face {
         font-family: articleFontRegular;
@@ -42,18 +43,18 @@
         src: url("/public/font/Product-Sans-Bold-3.ttf");
       }
     </style>
-    <link rel="stylesheet" href="/public/css/styles.css?v=prod-v10-sp3.1-29"/>
+    <link rel="stylesheet" href="/public/css/styles.css?v=prod-v10-sp3.1-30"/>
     
-    <link href="/public/web-dist/css/main.708431ea5f703839cdeb.css" rel="stylesheet"><link href="/public/web-dist/css/home.708431ea5f703839cdeb.css" rel="stylesheet">
+    <link href="/public/web-dist/css/main.a97870a35fc88a85b950.css" rel="stylesheet"><link href="/public/web-dist/css/home.a97870a35fc88a85b950.css" rel="stylesheet">
     
-    <script type="text/javascript" src="/public/lib/package.js?v=prod-v10-sp3.1-29"></script>
+    <script type="text/javascript" src="/public/lib/package.js?v=prod-v10-sp3.1-30"></script>
     <script type="text/javascript" src="/public/lib/layer/layer.min.js"></script>
     <script type="text/javascript">
       var apiBaseUrl = 'https://www.yealink.com/website-service'
       window.history.scrollRestoration = 'manual'
     </script>
     
-  <link rel="stylesheet" href="/public/css/home.css?v=prod-v10-sp3.1-29" />
+  <link rel="stylesheet" href="/public/css/home.css?v=prod-v10-sp3.1-30" />
 
   </head>
   
@@ -430,6 +431,16 @@
               <li class="on">
                 <div
                   class="pic"
+                  onclick="window.open('https://www.yealink.com/en/product-detail/headset-bh70')"
+                  data-pc-img="https://www.yealink.com/website-service/attachment/home_page/image/20240229/2024022903064939262f8cdc742068bdb85837b461276.jpg"
+                  data-mobile-img="https://www.yealink.com/website-service/attachment/home_page/image/20240229/20240229030718121c469ae5d4e6ba344ded019dd0526.jpg"
+                  style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20240229/2024022903064939262f8cdc742068bdb85837b461276.jpg);"
+                ></div>
+              </li>
+            
+              <li >
+                <div
+                  class="pic"
                   onclick="window.open('https://www.yealink.com/en/onepage/transcend-the-modern-workspace')"
                   data-pc-img="https://www.yealink.com/website-service/attachment/home_page/image/20231030/2023103002003278e6e6eb104b408a46719a09229809.jpg"
                   data-mobile-img="https://www.yealink.com/website-service/attachment/home_page/image/20231030/20231030020035760c117780b44479fc603aee9485d60.jpg"
@@ -477,43 +488,33 @@
                 ></div>
               </li>
             
-              <li >
-                <div
-                  class="pic"
-                  onclick="window.open('https://www.yealink.com/en/onepage/yealink-at-ise-2024')"
-                  data-pc-img="https://www.yealink.com/website-service/attachment/home_page/image/20231207/202312070923273863bf7f72d49c7bf5758a6f82818f6.jpg"
-                  data-mobile-img="https://www.yealink.com/website-service/attachment/home_page/image/20231207/20231207095756852a2f58e049209c64085f0acd5a21.jpg"
-                  style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20231207/202312070923273863bf7f72d49c7bf5758a6f82818f6.jpg);"
-                ></div>
-              </li>
-            
            
         </ul>
         <ol class="pager">
           
             
               <li data-num="0" class="on">
-                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> Collaboration Display</h1>
+                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> BH70 Bluetooth Headset</h1>
               </li>
             
               <li data-num="1" >
-                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> Android Meeting Solutions</h1>
+                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> Collaboration Display</h1>
               </li>
             
               <li data-num="2" >
-                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> BH7X Bluetooth Headsets</h1>
+                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> Android Meeting Solutions</h1>
               </li>
             
               <li data-num="3" >
-                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> 3rd-Gen MTR Solutions</h1>
+                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> BH7X Bluetooth Headsets</h1>
               </li>
             
               <li data-num="4" >
-                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> Connect without Limits</h1>
+                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> 3rd-Gen MTR Solutions</h1>
               </li>
             
               <li data-num="5" >
-                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> Yealink at ISE 2024</h1>
+                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> Connect without Limits</h1>
               </li>
             
            
@@ -1486,9 +1487,9 @@
     
   <script src="/public/lib/script/classie.js"></script>
   <script src="/public/lib/script/bxslider.js"></script>
-  <script src="/public/lib/script/home.js?v=prod-v10-sp3.1-29"></script>
+  <script src="/public/lib/script/home.js?v=prod-v10-sp3.1-30"></script>
 
-    <script type="text/javascript" src="/public/web-dist/js/main.708431ea5f703839cdeb.js"></script><script type="text/javascript" src="/public/web-dist/js/home.708431ea5f703839cdeb.js"></script>
+    <script type="text/javascript" src="/public/web-dist/js/main.a97870a35fc88a85b950.js"></script><script type="text/javascript" src="/public/web-dist/js/home.a97870a35fc88a85b950.js"></script>
 
     
     <script>
