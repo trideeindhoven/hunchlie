@@ -1,0 +1,1566 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+    
+    <script>
+      if (!window.localStorage.getItem('privacyData') || JSON.parse(window.localStorage.getItem('privacyData')).statistics == '1'){
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+          var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-NMLXSV9');
+      }
+    </script>
+    
+
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    <meta name="renderer" content="webkit" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="version" content="prod-v10-sp3.1-34"/>
+    <meta name="keywords" content="Yealink,Conference Phone,IP Phone,sip phone,voip phones,wireless headset,phone headset,Video Conferencing,microsoft teams phone,video conferencing devices"/>
+    <meta name="description" content="Yealink (Stock Code: 300628) is a global brand that specializes in video conferencing, voice communications and collaboration solutions with best-in-class quality, innovative technology and user-friendly experience. As one of the best providers in more than 140 countries and regions, Yealink ranks No.1 in the global market share of SIP phone shipments (Global IP Desktop Phone Growth Excellence Leadership Award Report, Frost &amp; Sullivan, 2019)."/>
+    <title>Yealink | UC &amp; C Terminal, Video Collaboration, Conference Phone, IP Phone, Headsets &amp; Video Conferencing</title>
+    <link rel="icon" href="/public/favicon.ico"/>
+    <link rel="stylesheet" href="/public/fonts/iconfont.css?v=prod-v10-sp3.1-34"/>
+    <style>
+      @font-face {
+        font-family: articleFontRegular;
+        src: url("/public/font/manrope-regular-6.otf");
+      }
+      @font-face {
+        font-family: articleFontThin;
+        src: url("/public/font/manrope-thin-8.otf");
+      }
+      @font-face {
+        font-family: titleFontRegular;
+        src: url("/public/font/Product-Sans-Regular-2.ttf");
+      }
+      @font-face {
+        font-family: titleFontBold;
+        src: url("/public/font/Product-Sans-Bold-3.ttf");
+      }
+    </style>
+    <link rel="stylesheet" href="/public/css/styles.css?v=prod-v10-sp3.1-34"/>
+    
+    <link href="/public/web-dist/css/main.20b8432ce1a6ff7a9132.css" rel="stylesheet"><link href="/public/web-dist/css/home.20b8432ce1a6ff7a9132.css" rel="stylesheet">
+    
+    <script type="text/javascript" src="/public/lib/package.js?v=prod-v10-sp3.1-34"></script>
+    <script type="text/javascript" src="/public/lib/layer/layer.min.js"></script>
+    <script type="text/javascript">
+      var apiBaseUrl = 'https://www.yealink.com/website-service'
+      window.history.scrollRestoration = 'manual'
+    </script>
+    
+  <link rel="stylesheet" href="/public/css/home.css?v=prod-v10-sp3.1-34" />
+
+  </head>
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-P3FLQEXP36"></script>
+  
+  <script type="text/javascript" async="false" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+  <script type="text/javascript">
+  function googleTranslateElementInit() {
+    if(google.translate.TranslateElement && 'en' !== 'en') {
+      new google.translate.TranslateElement({ pageLanguage: 'en' }, 'google_translate_element');
+    }
+  }
+  function changeGoogleLanguage(language) {
+    const googTeCombo = document.querySelector('.goog-te-combo');
+     if (googTeCombo && googTeCombo.children.length > 0) {
+        const children = Array.prototype.slice.call(googTeCombo.children || []);
+        let idx = children.findIndex((item) => item.getAttribute('value') === language);
+        // 有可能google插件初始化好的语言列表里面没有目标语音，需要先动态的添加，不然语言无法切换
+        if (idx === -1) {
+            const optionItem = document.createElement('option');
+            optionItem.setAttribute('value', language);
+            optionItem.textContent = language;
+            googTeCombo.appendChild(optionItem);
+            idx = children.length;
+        }
+        googTeCombo.selectedIndex = idx;
+        googTeCombo.dispatchEvent(new Event('change'));
+    } else {
+        setTimeout(() => {
+            changeGoogleLanguage(language);
+        }, 500);
+    }
+  }
+  </script>
+
+  <script>
+    window.dataLayer = window.dataLayer || []
+    function gtag() { dataLayer.push(arguments) }
+    gtag('js', new Date())
+    gtag('config', 'G-P3FLQEXP36')
+    if (!window.localStorage.getItem('privacyData') || JSON.parse(window.localStorage.getItem('privacyData')).statistics == '1'){
+      window['ga-disable-G-P3FLQEXP36'] = false
+    } else {
+      window['ga-disable-G-P3FLQEXP36'] = true
+    }
+  </script>
+  
+  
+    <script type="text/javascript">
+      if (!window.localStorage.getItem('privacyData') || JSON.parse(window.localStorage.getItem('privacyData')).targeted == '1'){
+        _linkedin_partner_id = "4209425";
+        window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+        window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+      }
+    </script>
+    <script type="text/javascript">
+      if (!window.localStorage.getItem('privacyData') || JSON.parse(window.localStorage.getItem('privacyData')).targeted == '1'){
+        (function(l) { if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])}; window.lintrk.q=[]}
+        var s = document.getElementsByTagName("script")[0];
+        var b = document.createElement("script");
+        b.type = "text/javascript";b.async = true;
+        b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+        s.parentNode.insertBefore(b, s);})(window.lintrk);
+      }
+    </script>
+  
+  <body class="nicescroll clearTranslate">
+    
+    
+    <noscript>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NMLXSV9" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    
+    
+    <noscript>
+      <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=4209425&fmt=gif" />
+    </noscript>
+    
+    <!-- 头部 -->
+    <header class="header animate">
+  <a href="https://www.yealink.com/en" title="Yealink,Conference Phone,IP Phone,sip phone,voip phones,wireless headset,phone headset,Video Conferencing,microsoft teams phone,video conferencing devices" class="logo">
+    <img src="/public/images/logo_2021_en.png" alt="Yealink,Conference Phone,IP Phone,sip phone,voip phones,wireless headset,phone headset,Video Conferencing,microsoft teams phone,video conferencing devices" />
+  </a>
+  <div id="google_translate_element"></div>
+  <nav class="menu notranslate">
+    <ul class="menulist clear">
+      <li class='go_down' data-id='1'><a target='' rel=''>Products</a></li><li class='go_down' data-id='5'><a target='' rel=''>Solutions</a></li><li class='go_down' data-id='12'><a target='' rel=''>Support</a></li><li class='go_down' data-id='13'><a target='' rel=''>Partners</a></li><li class='go_down' data-id='14'><a target='' rel=''>Company</a></li>
+    </ul>
+    <form method="get" class="new-search" action="/search.html">
+      <input type="submit" value="&#xe617;" class="iconfont notranslate" />
+      <input type="text" name="keywords" placeholder="Search" />
+    </form>
+  </nav>
+  <div class="functions clear animateall">
+    <a
+      href="javascript:void(0);"
+      class="search"
+      onclick="$('.searchinput').slideToggle();"
+    >
+      <i class="iconfont notranslate">&#xe617;</i>
+    </a>
+    <div class="lang posr notranslate ">
+      <a
+        href="javascript:void(0);"
+        style="cursor: auto; user-select: none; padding: 0px 3px"
+        >EN</a
+      >
+      <a
+        href="javascript:void(0);"
+        style="
+          color: rgb(158, 158, 158);
+          cursor: auto;
+          user-select: none;
+          padding: 0px 3px;
+        "
+        >|</a
+      >
+      <a
+        href="https://www.yealink.com.cn"
+        target="_blank"
+        style="color: rgb(158, 158, 158); padding: 0px 3px"
+        >中</a
+      >
+    </div>
+    <div class="lang posr">
+      
+      <a href="https://www.yealink.com/en/contact" class="index_demo"
+        >Contact Sales</a
+      >
+    </div>
+  </div>
+  <div class="searchinput">
+    <a
+      href="javascript:void(0);"
+      class="close"
+      onclick="$('.searchinput').slideUp();"
+    >
+      <i class="iconfont notranslate">&#xe605;</i>
+    </a>
+    <div class="inb">
+      <input
+          id="searchKeyword"
+          type="text"
+          name="keywords"
+          value=""
+          placeholder="Search.."
+          style="color: #333333"
+          spellcheck="false"
+          autocomplete="off"
+        />
+        <span id="searchBtn" class="iconfont notranslate">&#xe617;</span>
+    </div>
+  </div>
+  <a
+    href="javascript:void(0);"
+    class="menubtn"
+    onclick="$('#new-menu-app').fadeIn()"
+  >
+    <i></i>
+  </a>
+  <a class="goTop">
+    <i class="iconfont notranslate">&#xe672;</i>
+  </a>
+  <div id="new-menu" class="notranslate">
+    <div class="mask"></div>
+    <div class="mid">
+      <div class="fullCol">
+        <div class="col-content">
+          
+          <div class="col-content-li" data-id="1">
+            <div class='col-list'><div class='col-title'><a target='' rel='' href='/en/product-list/ip-phone'>IP Phone</a></div><ul><li><a><a target='' rel='' href='/en/product-list/ip-phone?filter=t5'>T5 Series</a></a></li><li><a><a target='' rel='' href='/en/product-list/ip-phone?filter=t4'>T4 Series</a></a></li><li><a><a target='' rel='' href='/en/product-list/ip-phone?filter=t3'>T3 Series</a></a></li><li><a><a target='' rel='' href='/en/product-list/ip-phone?filter=dect-phone'>DECT Phones</a></a></li><li><a><a target='' rel='' href='/en/product-list/ip-phone?filter=conference-phone'>Conference Phones</a></a></li></ul></div><div class='col-list'><div class='col-title'><a target='' rel='' href='/en/product-list/microsoft-zoom-device'>Microsoft | Zoom Device</a></div><ul><li><a><a target='' rel='' href='/en/product-list/microsoft-zoom-device?filter=teams-room-system'>Teams Rooms System</a></a></li><li><a><a target='' rel='' href='/en/product-list/microsoft-zoom-device?filter=zoom-rooms-kit'>Zoom Rooms System</a></a></li><li><a><a target='' rel='' href='/en/product-list/microsoft-zoom-device?filter=room-system-accessories'>Room System Accessories</a></a></li><li><a><a target='' rel='' href='/en/product-list/microsoft-zoom-device?filter=compatible-room-scheduling'>Room Scheduling</a></a></li><li><a><a target='' rel='' href='/en/product-list/microsoft-zoom-device?filter=usb-cameras-byod-kit'>USB Cameras & BYOD Kits</a></a></li><li><a><a target='' rel='' href='/en/product-list/microsoft-zoom-device?filter=teams-phone'>Teams Phones</a></a></li><li><a><a target='' rel='' href='/en/product-list/microsoft-zoom-device?filter=zoom-phone'>Zoom Phones</a></a></li><li><a><a target='' rel='' href='/en/product-list/microsoft-zoom-device?filter=compatible-headset'>Headsets</a></a></li><li><a><a target='' rel='' href='/en/product-list/microsoft-zoom-device?filter=compatible-speakerphone'>Speakerphones</a></a></li></ul></div><div class='col-list'><div class='col-title'><a target='' rel='' href='/en/product-list/headset-webcam'>Headset | Webcam</a></div><ul><li><a><a target='' rel='' href='/en/product-list/headset-webcam?filter=bluetooth-wireless-headset'>Bluetooth Wireless Headsets</a></a></li><li><a><a target='' rel='' href='/en/product-list/headset-webcam?filter=dect-wireless-headset'>DECT Wireless Headsets</a></a></li><li><a><a target='' rel='' href='/en/product-list/headset-webcam?filter=wired-headset'>Wired Headsets</a></a></li><li><a><a target='' rel='' href='/en/product-list/headset-webcam?filter=usb-camera'>USB Cameras</a></a></li><li><a><a target='' rel='' href='/en/product-list/headset-webcam?filter=speakerphone'>Speakerphones</a></a></li></ul></div><div class='col-list col-merge1'><div class='col-title'><a target='' rel='' href='/en/product-list/intelligent-room-device'>Intelligent Room Device</a></div><ul><li><a><a target='' rel='' href='/en/product-list/intelligent-room-device?filter=wireless-presentation'>Wireless Presentation</a></a></li><li><a><a target='' rel='' href='/en/product-list/intelligent-room-device?filter=room-scheduling'>Room Scheduling</a></a></li><li><a><a target='' rel='' href='/en/product-list/intelligent-room-device?filter=room-sensor'>Room Sensor</a></a></li></ul><div class='col-title'><a target='' rel='' href='/en/product-list/management-platform'>Management Platform</a></div><ul><li><a><a target='' rel='' href='/en/product-list/management-platform?filter=device-management-platform'>Device Management Platform (YDMP)</a></a></li><li><a><a target='' rel='' href='/en/product-list/management-platform?filter=management-cloud-service'>Management Cloud Service (YMCS)</a></a></li><li><a><a target='' rel='' href='/en/product-list/management-platform?filter=usb-connect-management'>USB Connect Management</a></a></li></ul></div><div class='col-list col-merge2'><div class='col-title'><a target='' rel='' href='/en/product-list/accessories'>Accessories</a></div><ul></ul><div class='col-title'><a target='' rel='' href='/en/product-list/eol-products'>EoL Products</a></div><ul></ul><div class='col-title'><a target='' rel='' href='/en/product-az'>Products A-Z</a></div><ul></ul></div>
+          </div>
+          
+          <div class="col-content-li" data-id="5">
+            <div class='col-list'><div class='col-title'><a target='' rel='' href='/en/solution-detail/microsoft-solution'>Microsoft Solutions</a></div><ul><li><a><a target='' rel='' href='/en/solution-detail/teams-room'>Teams Room</a></a></li><li><a><a target='' rel='' href='/en/solution-detail/teams-phone'>Teams Phone</a></a></li><li><a><a target='_blank' rel='nofollow' href='https://support.yealink.com/en/portal/liveDemo'>Live Demo Service</a></a></li><li><a><a target='' rel='' href='/en/onepage/yealink-room-configurator-1'>Room Configurator</a></a></li></ul></div><div class='col-list'><div class='col-title'><a target='' rel='' href='/en/solution-detail/zoom-solution'>Zoom Solutions</a></div><ul><li><a><a target='' rel='' href='/en/solution-detail/zoom-phone'>Zoom Phone</a></a></li><li><a><a target='' rel='' href='/en/solution-detail/zoom-rooms'>Zoom Rooms</a></a></li><li><a><a target='' rel='' href='/en/solution-detail/zoom-meetings'>Zoom Meetings</a></a></li><li><a><a target='_blank' rel='nofollow' href='https://support.yealink.com/en/portal/applyReserve?id=25'>Live Demo Service</a></a></li><li><a><a target='_blank' rel='nofollow' href='https://support.yealink.com/en/room-configurator/design'>Room Configurator</a></a></li></ul></div><div class='col-list'><div class='col-title'><a target='' rel='' href='/en/solution-detail/ringcentral-solution'>RingCentral Solutions</a></div><ul><li><a><a target='' rel='' href='/en/solution-detail/ringcentral-rooms'>RingCentral Rooms</a></a></li><li><a><a target='' rel='' href='/en/solution-detail/ringcentral-phone'>RingCentral Phone</a></a></li></ul></div><div class='col-list'><div class='col-title'><a target='' rel='' href='/en/solution#1'>By Industry</a></div><ul><li><a><a target='' rel='' href='/en/solution-detail/finance'>Finance</a></a></li><li><a><a target='' rel='' href='/en/solution-detail/education'>Education</a></a></li><li><a><a target='' rel='' href='/en/solution-detail/healthcare'>Healthcare</a></a></li><li><a><a target='' rel='' href='/en/solution-detail/manufacturing'>Manufacturing</a></a></li></ul></div><div class='col-list'><div class='col-title'><a target='' rel='' href='/en/solution#2'>By Scenario</a></div><ul><li><a><a target='' rel='' href='/en/solution-detail/future-workers'>Future Workers</a></a></li><li><a><a target='' rel='' href='/en/solution-detail/headset-and-handset-solution-dect-solution'>Headset&Handset</a></a></li><li><a><a target='' rel='' href='/en/solution-detail/personal-collaboration'>Personal Collaboration</a></a></li><li><a><a target='' rel='' href='/en/solution-detail/desktop-video'>Desktop Video</a></a></li></ul></div><div class='col-list'><div class='col-title'><a target='' rel='' href='/en/solution#5'>For Strategic Partners</a></div><ul><li><a><a target='' rel='' href='/en/solution-detail/3cx'>3CX Solution</a></a></li><li><a><a target='' rel='' href='/en/solution-detail/extron'>Extron Solution</a></a></li><li><a><a target='' rel='' href='/en/solution-detail/broadsoft'>BroadSoft Solution</a></a></li><li><a><a target='' rel='' href='/en/solution-detail/metaswitch'>Metaswitch Solution</a></a></li><li><a><a target='' rel='' href='/en/solution-detail/bluejeans'>BlueJeans Solution</a></a></li></ul></div>
+          </div>
+          
+          <div class="col-content-li" data-id="12">
+            <div class='col-list'><div class='col-title'><a target='_blank' rel='nofollow' href='https://support.yealink.com/en/portal/home'>Helpdesk</a></div><ul><li><a><a target='_blank' rel='nofollow' href='https://support.yealink.com/en/portal/home'>Support Home</a></a></li><li><a><a target='_blank' rel='nofollow' href='https://ticket.yealink.com/'>Submit a Ticket</a></a></li><li><a><a target='_blank' rel='nofollow' href='https://support.yealink.com/en/portal/knowledge'>Knowledge Base</a></a></li><li><a><a target='_blank' rel='nofollow' href='https://license.yealink.com/'>Apply for License</a></a></li><li><a><a target='_blank' rel='nofollow' href='https://ams.yealink.com/search/index'>Maintenance</a></a></li><li><a><a target='_blank' rel='nofollow' href='/en/onepage/yealink-partner-primecare-service-program'>Partner PrimeCare Service</a></a></li><li><a><a target='_blank' rel='nofollow' href='https://support.yealink.com/en/portal/compatible'>Headset Compatibility</a></a></li><li><a><a target='_blank' rel='nofollow' href='https://support.yealink.com/en/portal/knowledge/show?id=64589886b1fa936c57b55e17'>Headset Resource Center</a></a></li></ul></div><div class='col-list'><div class='col-title'><a target='_blank' rel='' href='https://academy.yealink.com/portal/home'>Yealink Academy</a></div><ul><li><a><a target='_blank' rel='' href='https://academy.yealink.com/portal/home'>Certification Portal</a></a></li><li><a><a target='_blank' rel='' href='https://academy.yealink.com/portal/learningCenter/dashboard'>Learning Center</a></a></li><li><a><a target='_blank' rel='' href='https://academy.yealink.com/portal/online'>Training List</a></a></li></ul></div><div class='col-list'><div class='col-title'><a target='' rel='' href='/en/material'>Resource Center</a></div><ul><li><a><a target='' rel='' href='/en/software'>Software</a></a></li><li><a><a target='' rel='' href='/en/material'>Materials</a></a></li><li><a><a target='' rel='' href='/en/resource-video'>Videos</a></a></li></ul></div><div class='col-list'><div class='col-title'><a target='' rel='' href='/en/trust-center'>Trust Center</a></div><ul><li><a><a target='' rel='' href='/en/trust-center'>Overview</a></a></li><li><a><a target='' rel='' href='/en/trust-center/security-compliance'>Security&Compliance</a></a></li><li><a><a target='' rel='' href='/en/trust-center/privacy'>Privacy</a></a></li><li><a><a target='' rel='' href='/en/trust-center/resources'>Resources</a></a></li><li><a><a target='' rel='' href='/en/trust-center/security-advisories'>Security Advisories</a></a></li></ul></div>
+          </div>
+          
+          <div class="col-content-li" data-id="13">
+            <div class='col-list'><div class='col-title'><a target='' rel='' href='/en/partner'>Partners</a></div><ul><li><a><a target='_blank' rel='nofollow' href='https://partner.yealink.com/login'>Partner Center</a></a></li><li><a><a target='' rel='' href='/en/partner'>Channel Partners</a></a></li><li><a><a target='' rel='' href='/en/partner-technology'>Technology Partners</a></a></li><li><a><a target='' rel='' href='/en/partner-operator'>Carrier and ITSP Partners</a></a></li></ul></div><div class='col-list'><div class='col-title'><a target='' rel='' href='/en/partner-reseller-become'>Online Reseller</a></div><ul><li><a><a target='' rel='' href='/en/onepage/authorized-online-reseller-program'>Program Overview</a></a></li><li><a><a target='' rel='' href='/en/onepage/authorized-online-reseller'>Authorized Online Reseller</a></a></li><li><a><a target='' rel='' href='/en/onepage/unauthorized-online-reseller'>Unauthorized Yealink Online Reseller</a></a></li><li><a><a target='' rel='' href='/en/partner-reseller-search'>Find an Authorized Online Reseller</a></a></li><li><a><a target='' rel='' href='/en/partner-reseller-become'>Become an Authorized Online Reseller</a></a></li><li><a><a target='' rel='' href='/en/onepage/opportunity-registration'>Opportunity Registration</a></a></li></ul></div><div class='col-list'><div class='col-title'><a target='' rel='' href='/en/certified-ip-phone-engineer-program'>Certified IP Phone Engineer</a></div><ul><li><a><a target='_blank' rel='' href='https://academy.yealink.com/portal/juniorCertified'>Junior Certified IP Phone Engineer</a></a></li><li><a><a target='_blank' rel='' href='https://academy.yealink.com/portal/juniorCertified'>Senior Certified IP Phone Engineer</a></a></li><li><a><a target='' rel='' href='/en/certified-ip-phone-sales-engineer-program'>Certified IP Phone Sales Engineer</a></a></li></ul></div><div class='col-list'><div class='col-title'><a target='_blank' rel='nofollow' href='https://academy.yealink.com/portal/salesSpecialistCertified'>Microsoft Solution Certified Program</a></div><ul><li><a><a target='_blank' rel='nofollow' href='https://academy.yealink.com/portal/salesSpecialistCertified'>Microsoft Solution Certified Sales Specialist</a></a></li><li><a><a target='_blank' rel='nofollow' href='https://academy.yealink.com/portal/preSalesProfessionalCertified'>Microsoft Solution Certified Pre-Sales Professional</a></a></li><li><a><a target='_blank' rel='nofollow' href='https://academy.yealink.com/portal/cmsesolutionExpert'>Microsoft Solution Certified Pre-Sales Expert</a></a></li><li><a><a target='_blank' rel='nofollow' href='https://academy.yealink.com/portal/cmsesolutionEngineer'>Microsoft Solution Certified Technical Professional</a></a></li><li><a><a target='_blank' rel='nofollow' href='https://academy.yealink.com/portal/cmsetechnicalExpert'>Microsoft Solution Certified Technical Expert</a></a></li></ul></div><div class='col-list'><div class='col-title'><a target='_blank' rel='nofollow' href='https://academy.yealink.com/portal/headsetSpecialist'>Certified Headset Solution Program</a></div><ul><li><a><a target='_blank' rel='nofollow' href='https://academy.yealink.com/portal/headsetSpecialist'>Certified Headset Solution Specialist</a></a></li><li><a><a target='_blank' rel='nofollow' href='https://academy.yealink.com/portal/headsetProfessional'>Certified Headset Solution Professional</a></a></li></ul></div><div class='col-list'><div class='col-title'><a target='_blank' rel='nofollow' href='https://academy.yealink.com/portal/multicellCertified'>Certified Multicell Engineer Program</a></div><ul><li><a><a target='_blank' rel='nofollow' href='https://academy.yealink.com/portal/multicellCertified'>Certified Multicell Engineer</a></a></li></ul></div>
+          </div>
+          
+          <div class="col-content-li" data-id="14">
+            <div class='col-list'><div class='col-title'><a target='' rel='' href='/en/company-profile'>About Yealink</a></div><ul><li><a><a target='' rel='' href='/en/company-profile'>Company Profile</a></a></li><li><a><a target='' rel='' href='/en/company-honor'>Company Honors</a></a></li><li><a><a target='' rel='' href='/en/responsibility'>Social Responsibility</a></a></li><li><a><a target='' rel='' href='/en/onepage/privacy-statement'>Privacy Statement</a></a></li></ul></div><div class='col-list'><div class='col-title'><a target='' rel='' href=''>News & Insights</a></div><ul><li><a><a target='' rel='' href='/en/blog'>Blog</a></a></li><li><a><a target='' rel='' href='/en/news'>News Center</a></a></li><li><a><a target='' rel='' href='/en/case'>Customer Stories</a></a></li></ul></div><div class='col-list'><div class='col-title'><a target='' rel='' href='/en/why-unified-communications'>Perspectives</a></div><ul><li><a><a target='' rel='' href='/en/why-unified-communications'>Why Unified Communications</a></a></li><li><a><a target='' rel='' href='/en/why-video-collabration'>Why Video Collaboration</a></a></li><li><a><a target='' rel='' href='/en/on-premise-or-hosted-service'>On-Premise and Hosted Service</a></a></li></ul></div><div class='col-list'><div class='col-title'><a target='' rel='' href='/en/contact-us'>Contact Us</a></div><ul><li><a><a target='' rel='' href='/en/contact'>Contact Sales</a></a></li><li><a><a target='_blank' rel='nofollow' href='https://ticket.yealink.com/'>Contact Support</a></a></li></ul></div>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="new-menu-app" class="notranslate">
+    <div class="top">
+      <a class="go-back iconfont notranslate">&#xe61a;</a>
+      <div class="app-title"></div>
+      <a class="go-close iconfont notranslate">&#xe608;</a>
+    </div>
+    <div class="mid">
+      <div class="col">
+        <ul class="nav_down a_1">
+          <li class='_child' data-id='1'><a target='' rel=''>Products</a><i class="iconfont notranslate">&#xeb78;</i></li><li class='_child' data-id='5'><a target='' rel=''>Solutions</a><i class="iconfont notranslate">&#xeb78;</i></li><li class='_child' data-id='12'><a target='' rel=''>Support</a><i class="iconfont notranslate">&#xeb78;</i></li><li class='_child' data-id='13'><a target='' rel=''>Partners</a><i class="iconfont notranslate">&#xeb78;</i></li><li class='_child' data-id='14'><a target='' rel=''>Company</a><i class="iconfont notranslate">&#xeb78;</i></li>
+        </ul>
+      </div>
+      <div class="col">
+        <ul class="nav_down a_2">
+          
+          <div class="col-content-li" data-id="1">
+            <li class='on'><a target='' rel=''>IP Phone</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"><a target='' rel='' href='/en/product-list/ip-phone?filter=t5'>T5 Series</a><a target='' rel='' href='/en/product-list/ip-phone?filter=t4'>T4 Series</a><a target='' rel='' href='/en/product-list/ip-phone?filter=t3'>T3 Series</a><a target='' rel='' href='/en/product-list/ip-phone?filter=dect-phone'>DECT Phones</a><a target='' rel='' href='/en/product-list/ip-phone?filter=conference-phone'>Conference Phones</a></div><li><a target='' rel=''>Microsoft | Zoom Device</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"><a target='' rel='' href='/en/product-list/microsoft-zoom-device?filter=teams-room-system'>Teams Rooms System</a><a target='' rel='' href='/en/product-list/microsoft-zoom-device?filter=zoom-rooms-kit'>Zoom Rooms System</a><a target='' rel='' href='/en/product-list/microsoft-zoom-device?filter=room-system-accessories'>Room System Accessories</a><a target='' rel='' href='/en/product-list/microsoft-zoom-device?filter=compatible-room-scheduling'>Room Scheduling</a><a target='' rel='' href='/en/product-list/microsoft-zoom-device?filter=usb-cameras-byod-kit'>USB Cameras & BYOD Kits</a><a target='' rel='' href='/en/product-list/microsoft-zoom-device?filter=teams-phone'>Teams Phones</a><a target='' rel='' href='/en/product-list/microsoft-zoom-device?filter=zoom-phone'>Zoom Phones</a><a target='' rel='' href='/en/product-list/microsoft-zoom-device?filter=compatible-headset'>Headsets</a><a target='' rel='' href='/en/product-list/microsoft-zoom-device?filter=compatible-speakerphone'>Speakerphones</a></div><li><a target='' rel=''>Headset | Webcam</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"><a target='' rel='' href='/en/product-list/headset-webcam?filter=bluetooth-wireless-headset'>Bluetooth Wireless Headsets</a><a target='' rel='' href='/en/product-list/headset-webcam?filter=dect-wireless-headset'>DECT Wireless Headsets</a><a target='' rel='' href='/en/product-list/headset-webcam?filter=wired-headset'>Wired Headsets</a><a target='' rel='' href='/en/product-list/headset-webcam?filter=usb-camera'>USB Cameras</a><a target='' rel='' href='/en/product-list/headset-webcam?filter=speakerphone'>Speakerphones</a></div><li><a target='' rel=''>Management Platform</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"><a target='' rel='' href='/en/product-list/management-platform?filter=device-management-platform'>Device Management Platform (YDMP)</a><a target='' rel='' href='/en/product-list/management-platform?filter=management-cloud-service'>Management Cloud Service (YMCS)</a><a target='' rel='' href='/en/product-list/management-platform?filter=usb-connect-management'>USB Connect Management</a></div><li><a target='' rel=''>Intelligent Room Device</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"><a target='' rel='' href='/en/product-list/intelligent-room-device?filter=wireless-presentation'>Wireless Presentation</a><a target='' rel='' href='/en/product-list/intelligent-room-device?filter=room-scheduling'>Room Scheduling</a><a target='' rel='' href='/en/product-list/intelligent-room-device?filter=room-sensor'>Room Sensor</a></div><li><a target='' rel=''>Products A-Z</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"></div><li><a target='' rel=''>EoL Products</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"></div><li><a target='' rel=''>Accessories</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"></div>
+          </div>
+          
+          <div class="col-content-li" data-id="5">
+            <li class='on'><a target='' rel=''>Microsoft Solutions</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"><a target='' rel='' href='/en/solution-detail/teams-room'>Teams Room</a><a target='' rel='' href='/en/solution-detail/teams-phone'>Teams Phone</a><a target='_blank' rel='nofollow' href='https://support.yealink.com/en/portal/liveDemo'>Live Demo Service</a><a target='' rel='' href='/en/onepage/yealink-room-configurator-1'>Room Configurator</a></div><li><a target='' rel=''>Zoom Solutions</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"><a target='' rel='' href='/en/solution-detail/zoom-phone'>Zoom Phone</a><a target='' rel='' href='/en/solution-detail/zoom-rooms'>Zoom Rooms</a><a target='' rel='' href='/en/solution-detail/zoom-meetings'>Zoom Meetings</a><a target='_blank' rel='nofollow' href='https://support.yealink.com/en/portal/applyReserve?id=25'>Live Demo Service</a><a target='_blank' rel='nofollow' href='https://support.yealink.com/en/room-configurator/design'>Room Configurator</a></div><li><a target='' rel=''>RingCentral Solutions</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"><a target='' rel='' href='/en/solution-detail/ringcentral-rooms'>RingCentral Rooms</a><a target='' rel='' href='/en/solution-detail/ringcentral-phone'>RingCentral Phone</a></div><li><a target='' rel=''>By Industry</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"><a target='' rel='' href='/en/solution-detail/finance'>Finance</a><a target='' rel='' href='/en/solution-detail/education'>Education</a><a target='' rel='' href='/en/solution-detail/healthcare'>Healthcare</a><a target='' rel='' href='/en/solution-detail/manufacturing'>Manufacturing</a></div><li><a target='' rel=''>By Scenario</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"><a target='' rel='' href='/en/solution-detail/future-workers'>Future Workers</a><a target='' rel='' href='/en/solution-detail/headset-and-handset-solution-dect-solution'>Headset&Handset</a><a target='' rel='' href='/en/solution-detail/personal-collaboration'>Personal Collaboration</a><a target='' rel='' href='/en/solution-detail/desktop-video'>Desktop Video</a></div><li><a target='' rel=''>For Strategic Partners</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"><a target='' rel='' href='/en/solution-detail/3cx'>3CX Solution</a><a target='' rel='' href='/en/solution-detail/extron'>Extron Solution</a><a target='' rel='' href='/en/solution-detail/broadsoft'>BroadSoft Solution</a><a target='' rel='' href='/en/solution-detail/metaswitch'>Metaswitch Solution</a><a target='' rel='' href='/en/solution-detail/bluejeans'>BlueJeans Solution</a></div>
+          </div>
+          
+          <div class="col-content-li" data-id="12">
+            <li class='on'><a target='_blank' rel='nofollow'>Helpdesk</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"><a target='_blank' rel='nofollow' href='https://support.yealink.com/en/portal/home'>Support Home</a><a target='_blank' rel='nofollow' href='https://ticket.yealink.com/'>Submit a Ticket</a><a target='_blank' rel='nofollow' href='https://support.yealink.com/en/portal/knowledge'>Knowledge Base</a><a target='_blank' rel='nofollow' href='https://license.yealink.com/'>Apply for License</a><a target='_blank' rel='nofollow' href='https://ams.yealink.com/search/index'>Maintenance</a><a target='_blank' rel='nofollow' href='/en/onepage/yealink-partner-primecare-service-program'>Partner PrimeCare Service</a><a target='_blank' rel='nofollow' href='https://support.yealink.com/en/portal/compatible'>Headset Compatibility</a><a target='_blank' rel='nofollow' href='https://support.yealink.com/en/portal/knowledge/show?id=64589886b1fa936c57b55e17'>Headset Resource Center</a></div><li><a target='_blank' rel=''>Yealink Academy</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"><a target='_blank' rel='' href='https://academy.yealink.com/portal/home'>Certification Portal</a><a target='_blank' rel='' href='https://academy.yealink.com/portal/learningCenter/dashboard'>Learning Center</a><a target='_blank' rel='' href='https://academy.yealink.com/portal/online'>Training List</a></div><li><a target='' rel=''>Resource Center</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"><a target='' rel='' href='/en/software'>Software</a><a target='' rel='' href='/en/material'>Materials</a><a target='' rel='' href='/en/resource-video'>Videos</a></div><li><a target='' rel=''>Trust Center</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"><a target='' rel='' href='/en/trust-center'>Overview</a><a target='' rel='' href='/en/trust-center/security-compliance'>Security&Compliance</a><a target='' rel='' href='/en/trust-center/privacy'>Privacy</a><a target='' rel='' href='/en/trust-center/resources'>Resources</a><a target='' rel='' href='/en/trust-center/security-advisories'>Security Advisories</a></div>
+          </div>
+          
+          <div class="col-content-li" data-id="13">
+            <li class='on'><a target='' rel=''>Partners</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"><a target='_blank' rel='nofollow' href='https://partner.yealink.com/login'>Partner Center</a><a target='' rel='' href='/en/partner'>Channel Partners</a><a target='' rel='' href='/en/partner-technology'>Technology Partners</a><a target='' rel='' href='/en/partner-operator'>Carrier and ITSP Partners</a></div><li><a target='' rel=''>Online Reseller</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"><a target='' rel='' href='/en/onepage/authorized-online-reseller-program'>Program Overview</a><a target='' rel='' href='/en/onepage/authorized-online-reseller'>Authorized Online Reseller</a><a target='' rel='' href='/en/onepage/unauthorized-online-reseller'>Unauthorized Yealink Online Reseller</a><a target='' rel='' href='/en/partner-reseller-search'>Find an Authorized Online Reseller</a><a target='' rel='' href='/en/partner-reseller-become'>Become an Authorized Online Reseller</a><a target='' rel='' href='/en/onepage/opportunity-registration'>Opportunity Registration</a></div><li><a target='' rel=''>Certified IP Phone Engineer</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"><a target='_blank' rel='' href='https://academy.yealink.com/portal/juniorCertified'>Junior Certified IP Phone Engineer</a><a target='_blank' rel='' href='https://academy.yealink.com/portal/juniorCertified'>Senior Certified IP Phone Engineer</a><a target='' rel='' href='/en/certified-ip-phone-sales-engineer-program'>Certified IP Phone Sales Engineer</a></div><li><a target='_blank' rel='nofollow'>Microsoft Solution Certified Program</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"><a target='_blank' rel='nofollow' href='https://academy.yealink.com/portal/salesSpecialistCertified'>Microsoft Solution Certified Sales Specialist</a><a target='_blank' rel='nofollow' href='https://academy.yealink.com/portal/preSalesProfessionalCertified'>Microsoft Solution Certified Pre-Sales Professional</a><a target='_blank' rel='nofollow' href='https://academy.yealink.com/portal/cmsesolutionExpert'>Microsoft Solution Certified Pre-Sales Expert</a><a target='_blank' rel='nofollow' href='https://academy.yealink.com/portal/cmsesolutionEngineer'>Microsoft Solution Certified Technical Professional</a><a target='_blank' rel='nofollow' href='https://academy.yealink.com/portal/cmsetechnicalExpert'>Microsoft Solution Certified Technical Expert</a></div><li><a target='_blank' rel='nofollow'>Certified Headset Solution Program</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"><a target='_blank' rel='nofollow' href='https://academy.yealink.com/portal/headsetSpecialist'>Certified Headset Solution Specialist</a><a target='_blank' rel='nofollow' href='https://academy.yealink.com/portal/headsetProfessional'>Certified Headset Solution Professional</a></div><li><a target='_blank' rel='nofollow'>Certified Multicell Engineer Program</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"><a target='_blank' rel='nofollow' href='https://academy.yealink.com/portal/multicellCertified'>Certified Multicell Engineer</a></div>
+          </div>
+          
+          <div class="col-content-li" data-id="14">
+            <li class='on'><a target='' rel=''>About Yealink</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"><a target='' rel='' href='/en/company-profile'>Company Profile</a><a target='' rel='' href='/en/company-honor'>Company Honors</a><a target='' rel='' href='/en/responsibility'>Social Responsibility</a><a target='' rel='' href='/en/onepage/privacy-statement'>Privacy Statement</a></div><li><a target='' rel=''>News & Insights</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"><a target='' rel='' href='/en/blog'>Blog</a><a target='' rel='' href='/en/news'>News Center</a><a target='' rel='' href='/en/case'>Customer Stories</a></div><li><a target='' rel=''>Perspectives</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"><a target='' rel='' href='/en/why-unified-communications'>Why Unified Communications</a><a target='' rel='' href='/en/why-video-collabration'>Why Video Collaboration</a><a target='' rel='' href='/en/on-premise-or-hosted-service'>On-Premise and Hosted Service</a></div><li><a target='' rel=''>Contact Us</a><i class="iconfont notranslate">&#xeb78;</i></li><div class="sub" eachdelay="a" delaytime="50" effect="dt,dd" animate="fadeInRight"><a target='' rel='' href='/en/contact'>Contact Sales</a><a target='_blank' rel='nofollow' href='https://ticket.yealink.com/'>Contact Support</a></div>
+          </div>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+  <script>
+    $(function () {
+      function menu_init() {
+        var signUp;
+        var signDown;
+        $('.menulist').find('li.no_down').hover(function () {
+            if (signUp) {
+              clearTimeout(signUp);
+            }
+            if (signDown) {
+              clearTimeout(signDown);
+            }
+            signUp = setTimeout(function () {
+              $('#new-menu').slideUp();
+              $('.search').show();
+            }, 300);
+            $('.menulist').find('a').css('opacity', '0.5');
+            $(this).find('a').css('opacity', '1');
+            //$('.new-close').click();
+          }, function() {
+            $(this).find('a').css('opacity', '0.5');
+          });
+        $('.menulist').find('li.go_down').hover(function () {
+            if (signUp) {
+              clearTimeout(signUp);
+            }
+            if (signDown) {
+              clearTimeout(signDown);
+            }
+            $('.menulist').find('a').css('opacity', '0.5');
+            $(this).find('a').css('opacity', '1');
+            signDown = setTimeout(function () {
+              $('#new-menu').slideDown();
+              $('.searchinput').hide();
+            }, 300);
+            var n = $(this).attr('data-id');
+            nav_go(n);
+          });
+        $('.menulist').find('li.go_down').on('mouseleave', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+            if (signUp) {
+              clearTimeout(signUp);
+            }
+            if (signDown) {
+              clearTimeout(signDown);
+            }
+            signUp = setTimeout(function () {
+              $('#new-menu').slideUp();
+              $('.search').show();
+              $('.menulist').find('a').css('opacity', '0.5');
+            }, 300);
+          });
+        $('.fullCol').on('mouseenter', function (e) {
+          if (signUp) {
+            clearTimeout(signUp);
+          }
+        });
+        $('.fullCol').on('mouseleave', function (e) {
+          e.preventDefault();
+          e.stopPropagation();
+          signUp = setTimeout(function () {
+            $('#new-menu').slideUp();
+            $('.search').show();
+          }, 300);
+          $('.menulist').find('a').css('opacity', '0.5');
+        });
+      }
+      menu_init();
+      // 显示哪个2级菜单
+      function nav_go(n) {
+        $('.col-content-li').css('display', 'none');
+        $('.col-content-li').each(function () {
+          if ($(this).attr('data-id') === n) {
+            $(this).css('display', 'contents');
+          }
+        });
+      }
+      // 触发搜索事件
+      $('#searchBtn').on("click", function () {
+        const str = $('#searchKeyword').val()
+        const keyword = str.trim()
+        const url = window.joinLanguageUrl('/search' + '?keywords='+keyword) 
+        location.href = url
+      });
+      // 给 input 绑定回车事件 
+      $('#searchKeyword').bind('keypress',function(event){
+        if(event.keyCode == "13") {
+          const str = $('#searchKeyword').val()
+          const keyword = str.trim()
+          const url = window.joinLanguageUrl('/search' + '?keywords='+keyword) 
+          location.href = url
+        }
+      })
+    });
+  </script>
+</header>
+
+    <!-- 主体内容 -->
+    <main class="wip-layout-body" id="wip_layout_body">
+      
+<article class="index notranslate">
+  <div class="btns Tbtn">
+    <ul class="animateall">
+      
+        
+          <li>
+            <a href="https://www.yealink.com/en/contact" target="_blank" class="Telephone">
+              <i class="iconfont notranslate">&#xe71c;</i><span>Contact Sales</span>
+            </a>
+          </li>
+        
+          <li>
+            <a href="http://ors.yealink.com" target="_blank" class="Telephone">
+              <i class="iconfont notranslate">&#xe616;</i><span>Register Opportunity</span>
+            </a>
+          </li>
+        
+          <li>
+            <a href="https://www.amazon.com/stores/page/D5F8A77D-5A6D-4059-AA2F-1CF442772D13?ingress=0&amp;visitId=2e51cf22-d3d1-487f-8e73-a2b17bc066b0" target="_blank" class="Telephone">
+              <i class="iconfont notranslate">&#xe708;</i><span>Buy Personal Products Now</span>
+            </a>
+          </li>
+        
+          <li>
+            <a href="https://www.yealink.com/en/onepage/user-research" target="_blank" class="Telephone">
+              <i class="iconfont notranslate">&#xed1d;</i><span>participate in user research and get rewards</span>
+            </a>
+          </li>
+        
+      
+    </ul>
+  </div>
+  <section class="banner tac alan-banner">
+    <div class="bg" style="cursor: pointer">
+      <video class="video"></video>
+
+      <div class="cover fx1 loop_1" data-loop="true" id="fn1">
+        <ul class="itemwrap">
+          
+            
+              <li class="on">
+                <div
+                  class="pic"
+                  onclick="window.open('https://www.yealink.com/en/product-detail/headset-bh70')"
+                  data-pc-img="https://www.yealink.com/website-service/attachment/home_page/image/20240229/2024022903064939262f8cdc742068bdb85837b461276.jpg"
+                  data-mobile-img="https://www.yealink.com/website-service/attachment/home_page/image/20240229/20240229030718121c469ae5d4e6ba344ded019dd0526.jpg"
+                  style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20240229/2024022903064939262f8cdc742068bdb85837b461276.jpg);"
+                ></div>
+              </li>
+            
+              <li >
+                <div
+                  class="pic"
+                  onclick="window.open('https://www.yealink.com/en/onepage/european-headset-explore-china-challenge')"
+                  data-pc-img="https://www.yealink.com/website-service/attachment/home_page/image/20240311/202403111027537695a5a5e174d0cbbc71984fe657a1d.jpg"
+                  data-mobile-img="https://www.yealink.com/website-service/attachment/home_page/image/20240311/2024031110280066135b85cd74f0c96eaea721427191e.jpg"
+                  style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20240311/202403111027537695a5a5e174d0cbbc71984fe657a1d.jpg);"
+                ></div>
+              </li>
+            
+              <li >
+                <div
+                  class="pic"
+                  onclick="window.open('https://www.yealink.com/en/onepage/transcend-the-modern-workspace')"
+                  data-pc-img="https://www.yealink.com/website-service/attachment/home_page/image/20231030/2023103002003278e6e6eb104b408a46719a09229809.jpg"
+                  data-mobile-img="https://www.yealink.com/website-service/attachment/home_page/image/20231030/20231030020035760c117780b44479fc603aee9485d60.jpg"
+                  style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20231030/2023103002003278e6e6eb104b408a46719a09229809.jpg);"
+                ></div>
+              </li>
+            
+              <li >
+                <div
+                  class="pic"
+                  onclick="window.open('https://www.yealink.com/en/onepage/android-meeting-solutions')"
+                  data-pc-img="https://www.yealink.com/website-service/attachment/home_page/image/20230527/20230527012246737250b97b44d13a879be99527fe676.jpg"
+                  data-mobile-img="https://www.yealink.com/website-service/attachment/home_page/image/20230527/202305270122499776ef942d346e8bbd71c106c501b6a.png"
+                  style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20230527/20230527012246737250b97b44d13a879be99527fe676.jpg);"
+                ></div>
+              </li>
+            
+              <li >
+                <div
+                  class="pic"
+                  onclick="window.open('https://www.yealink.com/en/product-detail/headset-bh71')"
+                  data-pc-img="https://www.yealink.com/website-service/attachment/home_page/image/20230117/2023011709044655b547581c40e78ad3a28981579edd.jpg"
+                  data-mobile-img="https://www.yealink.com/website-service/attachment/home_page/image/20230117/20230117090451329f35713d54b0f8eaa0589fda23d95.jpg"
+                  style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20230117/2023011709044655b547581c40e78ad3a28981579edd.jpg);"
+                ></div>
+              </li>
+            
+              <li >
+                <div
+                  class="pic"
+                  onclick="window.open('https://www.yealink.com/en/onepage/microsoft-teams-rooms-mvciii')"
+                  data-pc-img="https://www.yealink.com/website-service/attachment/home_page/image/20230904/20230904054951481e666b06d420a80c1df5a0ff21d27.jpg"
+                  data-mobile-img="https://www.yealink.com/website-service/attachment/home_page/image/20230904/20230904054959351c6d8b217462292f08de053fc6829.jpg"
+                  style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20230904/20230904054951481e666b06d420a80c1df5a0ff21d27.jpg);"
+                ></div>
+              </li>
+            
+              <li >
+                <div
+                  class="pic"
+                  onclick="window.open('https://www.yealink.com/en/onepage/dect-headset-phone-solution')"
+                  data-pc-img="https://www.yealink.com/website-service/attachment/home_page/image/20230608/20230608053742128e9f625444f27957385c31a37d025.jpg"
+                  data-mobile-img="https://www.yealink.com/website-service/attachment/home_page/image/20230608/20230608053754234a8d757914f38ad29ade1356c2917.jpg"
+                  style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20230608/20230608053742128e9f625444f27957385c31a37d025.jpg);"
+                ></div>
+              </li>
+            
+           
+        </ul>
+        <ol class="pager">
+          
+            
+              <li data-num="0" class="on">
+                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> BH70 Bluetooth Headset</h1>
+              </li>
+            
+              <li data-num="1" >
+                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> Explore China Challenge</h1>
+              </li>
+            
+              <li data-num="2" >
+                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> Collaboration Display</h1>
+              </li>
+            
+              <li data-num="3" >
+                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> Android Meeting Solutions</h1>
+              </li>
+            
+              <li data-num="4" >
+                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> BH7X Bluetooth Headsets</h1>
+              </li>
+            
+              <li data-num="5" >
+                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> 3rd-Gen MTR Solutions</h1>
+              </li>
+            
+              <li data-num="6" >
+                <h1 style='margin-block-start:0;font-weight:normal;font-size:14px'> Connect without Limits</h1>
+              </li>
+            
+           
+        </ol>
+        <nav style="display: none">
+          <a class="p-prev iconfont notranslate">&#xeb78;</a>
+          <a class="p-next iconfont notranslate">&#xeb78;</a>
+        </nav>
+        <div class="mouse-guide-div">
+          <div class="mouse-guide-slot"></div>
+          <img src="/public/images/mouse-icon.svg" alt="" />
+        </div>
+      </div>
+    </div>
+    
+  </section>
+  <section class="advantage about">
+  </section>
+  <section class="clear link-two">
+    <div class="link-header">
+      <h2 class="link-title">INNOVATE COMMUNICATION</h2>
+      <button class="link-btn" onclick="window.open('https://www.yealink.com/en/product-list/ip-phone')">LEARN MORE<i class="iconfont notranslate">&#xeb78;</i></button>
+    </div>
+    <div class="link-desc"></div>
+    <div class="smart-link">
+      <div class="link-tab">
+        <div class="link-main">
+          <div class="link-item">
+            <div class="link-loop-p">
+              <div class="link-loop">
+                <div class="link-loop-item">
+                  <div class="link-item">
+                    <div class="link-item1 link-key-1">
+                      <div class="item-bg"></div>
+                      <img
+                        src="https://www.yealink.com/website-service/download/meetingborad-homepage.png"
+                        alt="VIDEO CONFERENCING DEVICE"
+                      />
+                      <h3 class="item-title1">VIDEO CONFERENCING DEVICES</h3>
+                      <div class="item-btn">
+                        <i class="iconfont notranslate">&#xeb78;</i>
+                      </div>
+                    </div>
+                    <div class="link-item2">
+                      <div class="link-item2-1 link-key-2">
+                        <div class="item-bg"></div>
+                        <img
+                          src="https://www.yealink.com/upfiles/files/headset.png"
+                          alt="HEADSETS"
+                        />
+                        <h3 class="item-title1" style="color:#fff;">HEADSETS</h3>
+                        <div class="item-btn">
+                          <i class="iconfont notranslate">&#xeb78;</i>
+                        </div>
+                      </div>
+                      <div class="link-item2-2">
+                        <div class="link-item2-2-1 link-key-3">
+                          <div class="item-bg"></div>
+                          <img
+                            src="https://www.yealink.com/upfiles/files/ipphone.png"
+                            alt="IP PHONE"
+                          />
+                          <h3 class="item-title1">IP PHONES</h3>
+                          <div class="item-btn">
+                            <i class="iconfont notranslate">&#xeb78;</i>
+                          </div>
+                        </div>
+                        <div class="link-item2-2-2 link-key-4">
+                          <div class="item-bg"></div>
+                          <img
+                            src="https://www.yealink.com/upfiles/files/webcam.png"
+                            alt="WEBCAM"
+                          />
+                          <h3 class="item-title1">WEBCAMS</h3>
+                          <div class="item-btn">
+                            <i class="iconfont notranslate">&#xeb78;</i>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="link-loop-item">
+                  <div class="link-item">
+                    <div class="link-item2">
+                      <div class="link-item2-1 link-key-5">
+                        <div class="item-bg"></div>
+                        <img
+                          src="https://www.yealink.com/upfiles/files/yealinkmeeting.png"
+                          alt="VIDEO CONFERENCING PLATFORM"
+                        />
+                        <h3 class="item-title1"> VIDEO CONFERENCING PLATFORM </h3>
+                        <div class="item-btn">
+                          <i class="iconfont notranslate">&#xeb78;</i>
+                        </div>
+                      </div>
+                      <div class="link-item2-2">
+                        <div class="link-item2-2-1 link-key-6">
+                          <div class="item-bg"></div>
+                          <img
+                            src="https://www.yealink.com/upfiles/files/smartworkspace.png"
+                            alt="SMART WORKSPACE"
+                          />
+                          <h3 class="item-title1">
+                            <p>INTELLIGENT ROOM</p>
+                            <p>DEVICES</p>
+                          </h3>
+                          <div class="item-btn">
+                            <i class="iconfont notranslate">&#xeb78;</i>
+                          </div>
+                        </div>
+                        <div class="link-item2-2-2 link-key-7">
+                          <div class="item-bg"></div>
+                          <img
+                            src="https://www.yealink.com/upfiles/files/managementplatform.png"
+                            alt="MANAGEMENT PLATFORM"
+                          />
+                          <h3 class="item-title1">
+                            <p>MANAGEMENT PLATFORM</p>
+                          </h3>
+                          <div class="item-btn">
+                            <i class="iconfont notranslate">&#xeb78;</i>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="link-item1 link-key-8">
+                      <div class="item-bg"></div>
+                      <img
+                        src="https://www.yealink.com/upfiles/files/microsoftzoom.png"
+                        alt="MICROSOFT/ZOOM DEVICE"
+                      />
+                      <h3 class="item-title1">MICROSOFT/ZOOM DEVICES</h3>
+                      <div class="item-btn">
+                        <i class="iconfont notranslate">&#xeb78;</i>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="link-page">
+              <a href="javascript:void(0);" class="link-prev iconfont notranslate"
+                >&#xe718;</a
+              >
+              <a href="javascript:void(0);" class="link-next iconfont notranslate"
+                >&#xe718;</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="screen-three clear">
+    <div class="screen-three-content">
+      <div class="screen-three-tab">
+        <div class="screen-three-main">
+          <div class="screen-three-header">
+            <h2 class="screen-three-title">ART OF CONVERSATION</h2>
+            <button
+              class="screen-three-btn"
+              onclick="window.open('https://www.yealink.com/en/solution')"
+            >
+              LEARN MORE<i class="iconfont notranslate">&#xeb78;</i>
+            </button>
+          </div>
+          <div class="screen-three-desc"></div>
+          <div class="screen-three-item">
+            <div class="screen-three-item1">
+              <div class="screen-three-item1-child on">
+                <div class="sti1-child-left"><span>01</span></div>
+                <div class="sti1-child-right">
+                  <h3 class="sti1-child-right-t" data-id="1">
+                    MICROSOFT SOLUTIONS
+                  </h3>
+                  <h4 class="sti1-child-right-d">
+                    One-stop audio and video device solutions for Microsoft
+                    Teams, bring seamless Teams experience to every space.
+                  </h4>
+                  <div
+                    class="sti1-child-right-b"
+                    onclick="window.open('https://www.yealink.com/en/solution-detail/microsoft-solution')"
+                  >
+                    EXPLORE >
+                  </div>
+                </div>
+              </div>
+              <div class="screen-three-item1-child">
+                <div class="sti1-child-left"><span>02</span></div>
+                <div class="sti1-child-right">
+                  <h3 class="sti1-child-right-t " data-id="2">
+                    ZOOM SOLUTIONS
+                  </h3>
+                  <h4 class="sti1-child-right-d">
+                    Full range of audio and video device solutions for Zoom,
+                    delivering easy collaboration to the next level.
+                  </h4>
+                  <div
+                    class="sti1-child-right-b"
+                    onclick="window.open('https://www.yealink.com/en/solution-detail/zoom-solution')"
+                  >
+                    EXPLORE >
+                  </div>
+                </div>
+              </div>
+              <div class="screen-three-item1-child">
+                <div class="sti1-child-left"><span>03</span></div>
+                <div class="sti1-child-right">
+                  <h3 class="sti1-child-right-t" data-id="3">BY INDUSTRY</h3>
+                  <h4 class="sti1-child-right-d">
+                    Full range of audio and video device solutions form Yealink
+                    keep your company productive, engage people get creative.
+                  </h4>
+                  <div
+                    class="sti1-child-right-b"
+                    onclick="window.open('https://www.yealink.com/en/solution#1')"
+                  >
+                    EXPLORE >
+                  </div>
+                </div>
+              </div>
+              <div class="screen-three-item1-child">
+                <div class="sti1-child-left"><span>04</span></div>
+                <div class="sti1-child-right">
+                  <h3 class="sti1-child-right-t" data-id="4">BY SCENARIO</h3>
+                  <h4 class="sti1-child-right-d">
+                    From individual needs to team working, elevate workspace
+                    with powerful collaboration devices built for any scenarios.
+                  </h4>
+                  <div
+                    class="sti1-child-right-b"
+                    onclick="window.open('https://www.yealink.com/en/solution#2')"
+                  >
+                    EXPLORE >
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="screen-three-item2">
+              <div class="screen-three-item2-item">
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="screen-four clear">
+    <div class="screen-four-item1"></div>
+    <div class="screen-four-item2"></div>
+  </section>
+  <section class="screen-five clear">
+    <div class="screen-five-item">
+      <h2 class="screen-five-title">WHY YEALINK</h2>
+      <div class="screen-five-data">
+        <div class="screen-five-data-item">
+          <div class="sfdi-t">
+            <span class="sfdi-t-span">T</span><span class="sfdi-t-span">O</span
+            ><span class="sfdi-t-span">P</span
+            ><span class="sfdi-t-span">&nbsp;</span><span class="sfdi-t-span">1</span>
+          </div>
+          <h5 class="sfdi-d">
+            Market share by IP Phone Unit Shipment
+          </h5>
+        </div>
+        <div class="screen-five-data-item">
+          <div class="sfdi-t">
+            <span class="sfdi-t-span">T</span><span class="sfdi-t-span">O</span
+            ><span class="sfdi-t-span">P</span
+            ><span class="sfdi-t-span">&nbsp;</span><span class="sfdi-t-span">5</span>
+          </div>
+          <h5 class="sfdi-d">Video conferencing solutions provider</h5>
+        </div>
+        <div class="screen-five-data-item">
+          <div class="sfdi-t">
+            <span class="sfdi-t-span">1</span><span class="sfdi-t-span">/</span
+            ><span class="sfdi-t-span">5</span><span class="sfdi-t-span">0</span
+            ><span class="sfdi-t-span">0</span>
+          </div>
+          <h5 class="sfdi-d">
+            One in every 500 people owns or is using a Yealink product
+          </h5>
+        </div>
+        <div class="screen-five-data-item">
+          <div class="sfdi-t">
+            <span class="sfdi-t-span">5</span><span class="sfdi-t-span">0</span
+            ><span class="sfdi-t-span">0</span><span class="sfdi-t-span">,</span
+            ><span class="sfdi-t-span">0</span><span class="sfdi-t-span">0</span
+            ><span class="sfdi-t-span">0</span>
+          </div>
+          <h5 class="sfdi-d">Yealink served more than 500,000 companies</h5>
+        </div>
+      </div>
+      <div class="screen-five-desc">
+      Yealink (Stock Code: 300628) is a global-leading provider of Unified Communication &amp; Collaboration Solutions specialized in video conferencing, voice communications, and collaboration, dedicated to helping every person and organization embrace the power of &quot;Easy Collaboration, High Productivity&quot;.Yealink ranks No.1 in the global market share of IP Phone and is the Top 5 leader in the video conferencing market (Frost &amp; Sullivan, 2021).
+      </div>
+      <div class="screen-five-certificate">
+        <div class="sfci">
+          <div class="sfci-img"></div>
+          <div class="sfci-d">
+            <div class="sfci-d-top">
+              *Frost&amp;Sullivan 2019 Global Open SIP Phone Leadership Award
+            </div>
+            <div class="sfci-d-bottom"></div>
+          </div>
+        </div>
+        <div class="sfci">
+          <div class="sfci-img"></div>
+          <div class="sfci-d">
+            <div class="sfci-d-top">
+              *Frost&amp;Sullivan 2020 Global Tabletop Audio Conferencing Endpoint
+              Award
+            </div>
+            <div class="sfci-d-bottom"></div>
+          </div>
+        </div>
+        <div class="sfci">
+          <div class="sfci-img"></div>
+          <div class="sfci-d">
+            <div class="sfci-d-top">
+            *ITSPA Awards 2019 Best VoIP Device
+            </div>
+            <div class="sfci-d-bottom"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="screen-six clear">
+    <div class="screen-six-main">
+      <div class="screen-six-header">
+        <h2 class="screen-six-title">NEWS &amp; INSIGHTS </h2>
+        <button
+          class="screen-six-btn"
+          onclick="window.open('https://www.yealink.com/en/news')"
+        >
+          LEARN MORE<i class="iconfont notranslate">&#xeb78;</i>
+        </button>
+      </div>
+      <div class="screen-six-list">
+      
+        
+            
+            <div class="screen-six-list-item">
+              <div
+                class="ssli-img"
+                style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20230831/2023083108041023f24dfc6748f599a8f9ffb07bdbc4.png)"
+              ></div>
+              <div class="ssli-date">
+                NEWS 2023-08-31
+              </div>
+              <h3 class="ssli-t">Yealink Showcases Its Latest Collaboration Solution at Brazil FUTURECOM23</h3>
+              <div class="ssli-more">
+                <a href="https://www.yealink.com/en/news/yealink-showcases-its-latest-collaboration-solution-at-brazil-futurecom23" target="_blank"
+                  >READ IT<i class="iconfont notranslate">&#xeb78;</i></a
+                >
+              </div>
+            </div>
+            
+        
+            
+            <div class="screen-six-list-item">
+              <div
+                class="ssli-img"
+                style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20230821/20230821015830477d52b9ef646999701d7704fa35608.png)"
+              ></div>
+              <div class="ssli-date">
+                NEWS 2023-08-18
+              </div>
+              <h3 class="ssli-t">Yealink Helped Siemens Energy Harness the Full Potential of Video Collaboration</h3>
+              <div class="ssli-more">
+                <a href="https://www.yealink.com/en/news/yealink-siemens-energy-news" target="_blank"
+                  >READ IT<i class="iconfont notranslate">&#xeb78;</i></a
+                >
+              </div>
+            </div>
+            
+        
+            
+            <div class="screen-six-list-item">
+              <div
+                class="ssli-img"
+                style="background-image: url(https://www.yealink.com/website-service/attachment/home_page/image/20230718/20230718012049684dc982a024e35aac631dffbca1206.jpg)"
+              ></div>
+              <div class="ssli-date">
+                NEWS 2023-07-17
+              </div>
+              <h3 class="ssli-t">Yealink Announces Partnership with Exertis Almo</h3>
+              <div class="ssli-more">
+                <a href="https://www.yealink.com/en/news/yealink-announces-partnership-with-exertis-almo" target="_blank"
+                  >READ IT<i class="iconfont notranslate">&#xeb78;</i></a
+                >
+              </div>
+            </div>
+            
+        
+      
+      </div>
+    </div>
+  </section>
+
+  <div class="zixun">
+    <a href="javascript:void(0);" class="close" onclick="$('.zixun').fadeOut();"
+      ><i class="iconfont notranslate">&#xe605;</i></a
+    >
+    <div class="cont">
+      <form id="feedbackform">
+        
+        <ul class="labels clear">
+          <li>
+            <label
+              ><input
+                type="radio"
+                name="feedback_type"
+                value="产品"
+                checked="checked"
+              />
+              产品</label
+            >
+          </li>
+          <li>
+            <label
+              ><input
+                type="radio"
+                id="technology_btn"
+                name="feedback_type"
+                value="技术"
+              />
+              技术</label
+            >
+          </li>
+          <li>
+            <label
+              ><input type="radio" name="feedback_type" value="商务合作" />
+              商务合作</label
+            >
+          </li>
+          <li>
+            <label
+              ><input type="radio" name="feedback_type" value="招聘" />
+              招聘</label
+            >
+          </li>
+          <li>
+            <label
+              ><input type="radio" name="feedback_type" value="其他" />
+              其他</label
+            >
+          </li>
+        </ul>
+        <div class="form">
+          <div class="top">
+            <input type="text" placeholder="姓名：*" name="name" />
+            <input type="text" placeholder="邮箱：" name="email" />
+            <input type="text" placeholder="公司名称：" name="company" />
+            <input type="text" placeholder="联系方式：*" name="tel" />
+          </div>
+          <div class="bottom">
+            <textarea
+              name="message"
+              id="message"
+              placeholder="请再此描述您的具体意见或建议：*"
+            ></textarea>
+          </div>
+          <!--<div class="code">
+                      <input type="text" placeholder="输入下方验证码提交" />
+                  </div>-->
+        </div>
+        <div class="btn tar">
+          <!--<div class="pic"><img src="templates/images/verifycode.jpg" alt="" /></div>-->
+          <div class="pic" id="respond_feedback"></div>
+          <a href="javascript:void(0);" class="growbtn" id="feedback_btn"
+            ><i class="iconfont notranslate">&#xe61e;</i> 提交</a
+          >
+        </div>
+        <input name="salt" value="{$salt}" type="hidden" />
+      </form>
+    </div>
+  </div>
+</article>
+
+    </main>
+    
+      
+    
+    <!-- 底部 -->
+    <footer class="footer">
+  <div class="maxsize sitemap clear animateall sitemap-top notranslate" style="width: auto;box-sizing:content-box;">
+    
+      <dl>
+        <dt>
+          <a class="no-href" href="javascript:;"  >ABOUT YEALINK</a>
+        </dt>
+        
+          <dd>
+            <a href="/en/company-profile" target="_blank" >Company Profile</a>
+          </dd>
+        
+          <dd>
+            <a href="/en/company-honor"  >Company Honors</a>
+          </dd>
+        
+          <dd>
+            <a href="/en/responsibility"  >Social Responsibility</a>
+          </dd>
+        
+          <dd>
+            <a href="/en/why-unified-communications"  >Perspectives</a>
+          </dd>
+        
+          <dd>
+            <a href="/en/onepage/privacy-statement"  >Privacy Statement</a>
+          </dd>
+        
+          <dd>
+            <a href="/en/contact" target="_blank" >Contact Sales</a>
+          </dd>
+        
+          <dd>
+            <a href="/en/blog" target="_blank" >Explore Our Blog</a>
+          </dd>
+        
+      </dl>
+    
+      <dl>
+        <dt>
+          <a class="no-href" href="javascript:;"  >PRODUCTS</a>
+        </dt>
+        
+          <dd>
+            <a href="/en/product-list/ip-phone?filter=dect-phone"  >DECT Phone</a>
+          </dd>
+        
+          <dd>
+            <a href="/en/product-list/headset-webcam?filter=dect-wireless-headset"  >DECT Wireless Headset</a>
+          </dd>
+        
+          <dd>
+            <a href="/en/product-list/vc-device?filter=meetingeye-series"  >MeetingEye Series</a>
+          </dd>
+        
+          <dd>
+            <a href="/en/product-list/vc-device?filter=vc-room-system"  >Video Conferencing Room System</a>
+          </dd>
+        
+          <dd>
+            <a href="/en/product-list/microsoft-zoom-device?filter=teams-room-system"  >Microsoft Teams Room System</a>
+          </dd>
+        
+          <dd>
+            <a href="/en/product-list/microsoft-zoom-device?filter=zoom-rooms-kit"  >Zoom Rooms Kits</a>
+          </dd>
+        
+          <dd>
+            <a href="/en/product-list/microsoft-zoom-device?filter=usb-cameras-byod-kit"  >USB-BYOD</a>
+          </dd>
+        
+      </dl>
+    
+      <dl>
+        <dt>
+          <a class="no-href" href="javascript:;" target="_blank" >SOLUTIONS</a>
+        </dt>
+        
+          <dd>
+            <a href="/en/solution-detail/teams-room"  >Microsoft Teams Room Solution</a>
+          </dd>
+        
+          <dd>
+            <a href="/en/solution-detail/zoom-rooms"  >Zoom Rooms Solution</a>
+          </dd>
+        
+          <dd>
+            <a href="/en/solution-detail/future-workers"  >Future Workers Solution</a>
+          </dd>
+        
+          <dd>
+            <a href="/en/solution-detail/healthcare"  >Healthcare Solution</a>
+          </dd>
+        
+      </dl>
+    
+      <dl>
+        <dt>
+          <a class="no-href" href="javascript:;" target="_blank" >SUPPORT</a>
+        </dt>
+        
+          <dd>
+            <a href="https://support.yealink.com/en/portal/home" target="_blank" rel="nofollow">Support Home</a>
+          </dd>
+        
+          <dd>
+            <a href="https://ticket.yealink.com" target="_blank" rel="nofollow">Submit a Ticket</a>
+          </dd>
+        
+          <dd>
+            <a href="https://ams.yealink.com/search/index" target="_blank" rel="nofollow">Equipment Maintenance</a>
+          </dd>
+        
+          <dd>
+            <a href="https://sso.yealink.com/login" target="_blank" rel="nofollow">Apply for License</a>
+          </dd>
+        
+          <dd>
+            <a href="https://support.yealink.com/en/portal/knowledge" target="_blank" rel="nofollow">Knowledge Base</a>
+          </dd>
+        
+          <dd>
+            <a href="https://academy.yealink.com/portal/home" target="_blank" rel="nofollow">Yealink Academy</a>
+          </dd>
+        
+          <dd>
+            <a href="/en/onepage/yealink-definitions"  >Terminology Definition</a>
+          </dd>
+        
+      </dl>
+    
+      <dl>
+        <dt>
+          <a class="no-href" href="javascript:;" target="_blank" >PARTNERS</a>
+        </dt>
+        
+          <dd>
+            <a href="https://partner.yealink.com/login" target="_blank" rel="nofollow">Partner Center</a>
+          </dd>
+        
+          <dd>
+            <a href="/en/partner"  >Channel Partners</a>
+          </dd>
+        
+          <dd>
+            <a href="/en/partner-technology"  >Technology Partners</a>
+          </dd>
+        
+          <dd>
+            <a href="/en/partner-operator"  >Carrier and ITSP Partners</a>
+          </dd>
+        
+          <dd>
+            <a href="/en/partner-reseller-become"  >Become an Online Reseller</a>
+          </dd>
+        
+          <dd>
+            <a href="/en/onepage/opportunity-registration"  >Opportunity Registration</a>
+          </dd>
+        
+      </dl>
+    
+  </div>
+  <div class="maxsize sitemap clear animateall sitemap-bottom" style="box-sizing:content-box;">
+    <dl style="width: 300px">
+      <dt>
+        <a href="https://www.yealink.com/en/contact">SIGN UP FOR OUR NEWSLETTER</a>
+      </dt>
+      <div class="sr" style="padding-bottom: 0">
+        <div class="search">
+          <div
+            class="con"
+            style="
+              width: 100%;
+              height: 32px;
+              border-radius: 4px;
+              overflow: hidden;
+              border: none;
+            "
+          >
+            <form id="subscribe_form" method="get" onsubmit="return false;">
+              <input
+                type="text"
+                placeholder="Email Address "
+                name="email"
+                value=""
+                class="text"
+                autocomplete="off"
+                style="
+                  height: 32px;
+                  line-height: 32px;
+                  width: calc(100% - 90px);
+                "
+/>
+              <input
+                type="submit"
+                id="subscribe_btn"
+                value="SUBMIT"
+                style="
+                  height: 32px;
+                  width: 90px;
+                  cursor: pointer;
+                  background: #078855;
+                  color: #fff;
+                "
+/>
+            </form>
+          </div>
+        </div>
+      </div>
+      <dd class="sns" style="width: 200px">
+        <a
+          rel="nofollow"
+          href="https://www.linkedin.com/company/yealink"
+          target="_blank"
+          >
+          <i class="iconfont notranslate"></i>
+        </a
+        >
+        <a
+          rel="nofollow"
+          href="https://www.facebook.com/Yealink"
+          target="_blank"
+          >
+          <i class="iconfont notranslate"></i>
+        </a
+        >
+        <a rel="nofollow" href="https://twitter.com/YealinkNews" target="_blank"
+          >
+          <i class="iconfont notranslate"></i>
+        </a
+        >
+        <a
+          rel="nofollow"
+          href="https://www.youtube.com/channel/UCqgN8x8hC74dFCegsbKvQgQ"
+          target="_blank"
+          >
+          <i class="iconfont notranslate"></i>
+        </a
+        >
+      </dd>
+    </dl>
+  </div>
+  <div class="footer-mobile clearfix">
+    <dl>
+      <dt>
+        <a href="https://www.yealink.com/en/solution">SOLUTIONS</a>
+      </dt>
+    </dl>
+    <dl>
+      <dt>
+        <a href="https://www.yealink.com/en/product-list/ip-phone">PRODUCTS</a>
+      </dt>
+    </dl>
+    <dl>
+      <dt>
+        <a href="https://www.yealink.com/en/partner">PARTNERS</a>
+      </dt>
+    </dl>
+    <dl>
+      <dt>
+        <a href="https://www.yealink.com/en/contact">CONTACT</a>
+      </dt>
+    </dl>
+  </div>
+  <div class="copy">
+    <div class="brand">
+      Copyright © 2023 Yealink Inc. All rights reserved. &nbsp;
+      <a href="https://www.yealink.com/en/onepage/privacy-statement" target="_blank">Policy Statement</a><span style="position:relative;top:-1px;">&nbsp;|&nbsp;</span><a href="javascript:;" class="show-cookie-pop">Cookie Management</a>
+    </div>
+  </div>
+</footer>
+
+    <div class="cookies-banner-pop-container">
+	
+	<div class="cookies-banner-pop-window-pc">
+		<div class="cookies-left">
+			<img class="cookies-logo" src="/public/images/yealink_logo.png">
+			<div class="cookies-optionList">
+				<div  class="cookies-option option-default" tabindex="1" data-kind='cookiePrivacy'>
+					Your Privacy
+				</div>
+				<div class="cookies-option" tabindex="2" data-kind='cookieNecessary'>
+					Strictly Necessary Cookies
+				</div>
+				<div class="cookies-option" tabindex="3" data-kind='cookiePreferences'>
+					Preferences Cookies
+				</div>
+				<div class="cookies-option" tabindex="4" data-kind='cookieStatistics'>
+					Statistics Cookies
+				</div>
+				<div class="cookies-option" tabindex="5" data-kind='cookieTargeted'>
+					Targeted Cookies 
+				</div>
+			</div>
+		</div>
+		<div class="cookies-right">
+			<div class="cookies-title">
+				PRIVACY PREFERENCE CENTER
+			</div>
+			<img class="cookies-close" src="/public/images/close.svg">
+			
+			<div class="cookies-kind cookiePrivacy" style="display:inline">
+			
+				<div class="cookies-dec">
+				When you visit any website, the website stores or retrieves information from your browser, mostly in the form of Cookies. This information may relate to your personal information, preferences or device information and is used primarily to enable the website to provide the services you expect. This information does not usually directly identify you personally, but can provide you with a more personalized web experience. We fully respect your privacy, so you can choose not to allow certain types of Cookies, simply by clicking on the name of a different Cookie category to learn more and change the default settings. However, blocking certain types of Cookies may affect your experience with the site and the services we can provide to you.
+			  </div>
+				<a class="cookies-goto" href="https://www.yealink.com/en/onepage/yealink-cookie-policy">
+					Learn more ->
+			  </a>
+			</div>
+
+			<div class="cookies-kind cookieNecessary" >
+				<div class="cookies-kind-title">
+					Strictly Necessary Cookies
+				</div>
+				<span style="color:#08b286">Always On</span>
+
+				<div class="cookies-dec">
+					These Cookies are essential for users to navigate the site and use its features, which are necessary for the proper functioning of the site, and cannot be turned off on our system. They are set only for actions you do that are equivalent to service requests, such as setting up your login or populating a form.You can set your browser to block or alert you to such Cookies, but some features of the site will not work. These Cookies do not store any personally identifiable information.
+				</div>
+				<a class="cookies-goto" href="https://www.yealink.com/en/onepage/yealink-cookie-policy">
+					Learn more ->
+			  </a>
+			</div>
+
+			<div class="cookies-kind cookiePreferences" >
+				<div class="cookies-kind-title">
+					Preferences Cookies 
+				</div>
+				<input class="form-check-input preferencesCheck" style="display: none;" checked="checked"  type="checkbox">
+				<div class="cookies-dec">
+					These Cookies are primarily used to record the preferences of users as they navigate the site and use its features. These Cookies allow the website to remember the choices you have made in the past, such as which language you prefer or what your username and password are, so that you can automatically log in. If you do not allow the use of such Cookies, you will not be able to enjoy a more convenient experience with the site.
+			  </div>
+				<a class="cookies-goto" href="https://www.yealink.com/en/onepage/yealink-cookie-policy">
+					Learn more ->
+			  </a>
+			</div>
+
+			<div class="cookies-kind cookieStatistics" >
+				<div class="cookies-kind-title">
+					Statistics Cookies
+				</div>
+				<input class="form-check-input statisticsCheck" style="display: none;" checked="checked" type="checkbox">
+				<div class="cookies-dec">
+					These Cookies allow us to count the number of visits to our website and the sources of traffic in order to evaluate and improve the performance of our website. These Cookies also help us to understand the popularity of our pages and the activity of our visitors on the site. All information collected by such Cookies is aggregated to ensure that it remains anonymous. If you do not allow the use of such Cookies, we will have no way of knowing when you visit our site and will not be able to monitor site performance.
+			  </div>
+				<a class="cookies-goto" href="https://www.yealink.com/en/onepage/yealink-cookie-policy">
+					Learn more ->
+			  </a>
+			</div>
+
+			<div class="cookies-kind cookieTargeted" >
+				<div class="cookies-kind-title">
+					Targeted Cookies
+				</div>
+				<input class="form-check-input targetedCheck" style="display: none;" checked="checked" type="checkbox">
+				<div class="cookies-dec">
+					These Cookies may be set by our advertising partners through our website and may also be used by those companies to create profiles of your interests and to display relevant advertisements to you on other websites. These Cookies do not store personal information directly, but use some information that uniquely identifies your browser and Internet device. If you do not allow the use of such Cookies, the advertisements you see will be less targeted.
+			  </div>
+				<a class="cookies-goto" href="https://www.yealink.com/en/onepage/yealink-cookie-policy">
+					Learn more ->
+			  </a>
+			</div>
+
+			<button class="cookies-btn">Save Setting</button>
+		</div>
+
+	</div>
+
+	
+	<div class="cookies-banner-pop-window-mobile">
+		<div class="cookies-title">
+			PRIVACY PREFERENCE CENTER
+		</div>
+		<div class="cookies-logo-container">
+			<img class="cookies-logo" src="/public/images/yealink_logo.png">
+		</div>
+		<div class="cookies-optionList-mobile">
+			
+			<div class="cookies-option-mobile" tabindex="1">
+					Your Privacy
+					<img class="cookies-option-arrow" src="/public/images/arrow-down-bold.png">
+			</div>
+			<div class="cookies-option-content">
+				<div class="cookies-kind-title">
+					Your Privacy
+				</div>
+				<div class="cookies-dec">
+					When you visit any website, the website stores or retrieves information from your browser, mostly in the form of Cookies. This information may relate to your personal information, preferences or device information and is used primarily to enable the website to provide the services you expect. This information does not usually directly identify you personally, but can provide you with a more personalized web experience. We fully respect your privacy, so you can choose not to allow certain types of Cookies, simply by clicking on the name of a different Cookie category to learn more and change the default settings. However, blocking certain types of Cookies may affect your experience with the site and the services we can provide to you.
+			  </div>
+				<a class="cookies-goto" href="https://www.yealink.com/en/onepage/yealink-cookie-policy">
+					Learn more ->
+			  </a>
+			</div>
+			
+			<div class="cookies-option-mobile" tabindex="2">
+					Strictly Necessary Cookies
+					<img class="cookies-option-arrow" src="/public/images/arrow-down-bold.png">
+			</div>
+			<div class="cookies-option-content">
+				<div class="cookies-kind-title">
+					Strictly Necessary Cookies
+				</div>
+				<div style="color:#08b286;float: right;line-height: 54px;">Always On</div>
+				<div class="cookies-dec">
+					These Cookies are essential for users to navigate the site and use its features, which are necessary for the proper functioning of the site, and cannot be turned off on our system. They are set only for actions you do that are equivalent to service requests, such as setting up your login or populating a form.You can set your browser to block or alert you to such Cookies, but some features of the site will not work. These Cookies do not store any personally identifiable information.
+				</div>
+				<a class="cookies-goto" href="https://www.yealink.com/en/onepage/yealink-cookie-policy">
+					Learn more ->
+			  </a>
+			</div>
+			
+			<div class="cookies-option-mobile" tabindex="3">
+					Preferences Cookies 
+					<img class="cookies-option-arrow" src="/public/images/arrow-down-bold.png">
+			</div>
+			<div class="cookies-option-content">
+				<div class="cookies-kind-title" style="width:220px">
+					Preferences Cookies 
+				</div>
+				<input class="form-check-input preferencesCheck" style="display: none;" checked="checked"  type="checkbox">
+				<div class="cookies-dec">
+					These Cookies are primarily used to record the preferences of users as they navigate the site and use its features. These Cookies allow the website to remember the choices you have made in the past, such as which language you prefer or what your username and password are, so that you can automatically log in. If you do not allow the use of such Cookies, you will not be able to enjoy a more convenient experience with the site.
+			  </div>
+				<a class="cookies-goto" href="https://www.yealink.com/en/onepage/yealink-cookie-policy">
+					Learn more ->
+			  </a>
+			</div>
+			
+			<div class="cookies-option-mobile" tabindex="4">
+					Statistics Cookies
+					<img class="cookies-option-arrow" src="/public/images/arrow-down-bold.png">
+			</div>
+			<div class="cookies-option-content">
+				<div class="cookies-kind-title " style="width:220px">
+					Statistics Cookies
+				</div>
+				<input class="form-check-input statisticsCheck" style="display: none;" checked="checked"  type="checkbox">
+				<div class="cookies-dec">
+					These Cookies allow us to count the number of visits to our website and the sources of traffic in order to evaluate and improve the performance of our website. These Cookies also help us to understand the popularity of our pages and the activity of our visitors on the site. All information collected by such Cookies is aggregated to ensure that it remains anonymous. If you do not allow the use of such Cookies, we will have no way of knowing when you visit our site and will not be able to monitor site performance.
+			  </div>
+				<a class="cookies-goto" href="https://www.yealink.com/en/onepage/yealink-cookie-policy">
+					Learn more ->
+			  </a>
+			</div>
+			
+			<div class="cookies-option-mobile" tabindex="5">
+					Targeted Cookies
+					<img class="cookies-option-arrow" src="/public/images/arrow-down-bold.png">
+			</div>
+			<div class="cookies-option-content">
+				<div class="cookies-kind-title" style="width:220px">
+					Targeted Cookies
+				</div>
+				<input class="form-check-input targetedCheck" style="display: none;" checked="checked" type="checkbox">
+				<div class="cookies-dec">
+					These Cookies may be set by our advertising partners through our website and may also be used by those companies to create profiles of your interests and to display relevant advertisements to you on other websites. These Cookies do not store personal information directly, but use some information that uniquely identifies your browser and Internet device. If you do not allow the use of such Cookies, the advertisements you see will be less targeted.
+			  </div>
+				<a class="cookies-goto" href="https://www.yealink.com/en/onepage/yealink-cookie-policy">
+					Learn more ->
+			  </a>
+			</div>
+
+		</div>
+		<div style="text-align: center;margin-top: 20px;">
+			<button class="cookies-btn-mobile">Save Setting</button>
+		</div>
+
+	</div>
+
+</div>
+    <div class="cookies-banner">
+  <div class="cookies-banner__title">
+    Except for necessary cookies, we may also use functional cookies (including third party cookies) to deliver experience for you. You can turn them off by clicking “configure". More information in 
+    <a href="https://www.yealink.com/en/onepage/yealink-cookie-policy">cookies policy.</a></div>
+  <div class="cookies-banner__btn">
+    <span class="cookieBtn no" data-type="no">Configure</span>
+    <span class="cookieBtn yes" data-type="yes">I Accept</span>
+  </div>
+</div>
+
+
+
+    
+    
+  <script src="/public/lib/script/classie.js"></script>
+  <script src="/public/lib/script/bxslider.js"></script>
+  <script src="/public/lib/script/home.js?v=prod-v10-sp3.1-34"></script>
+
+    <script type="text/javascript" src="/public/web-dist/js/main.20b8432ce1a6ff7a9132.js"></script><script type="text/javascript" src="/public/web-dist/js/home.20b8432ce1a6ff7a9132.js"></script>
+
+    
+    <script>
+      if (navigator.userAgent.indexOf('Chrome') > -1 && window.location.hash){
+        window.location = window.location
+      }
+    </script>
+    
+    <script type="text/javascript">
+    window.systemLanguage = 'en'
+    function translatePage() {
+      // 检查 Google Translate API 是否已加载
+      if (typeof google !== 'undefined' && typeof google.translate !== 'undefined') {
+        googleTranslateElementInit();
+      } else {
+        // 延迟执行翻译操作，直到 Google Translate API 加载完成
+        setTimeout(translatePage, 100);
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+      
+      //英文环境下不调用谷歌翻译
+      if('en' === 'en') {
+        return 
+      }
+       //在页面加载完成后调用翻译操作
+      changeGoogleLanguage('en');
+      setTimeout(() => {
+        document.querySelector('body').setAttribute('style', '');
+      }, 100)
+    });
+
+    function getLanguageBag(callback) {
+      var languageBag = sessionStorage.getItem(`language-${systemLanguage}`)
+      if (!languageBag) {
+        httpRequest.get('/changeLanguage', { lang: systemLanguage === 'en' ? 'en_US' : systemLanguage }).then((res) => {
+          if (res.success) {
+            sessionStorage.setItem(`language-${systemLanguage}`, JSON.stringify(res.obj))
+            window[`language-${systemLanguage}`] = res.obj
+            callback && callback()
+          }
+        }).catch(() => {
+      })
+      } else {
+        window[`language-${systemLanguage}`] = JSON.parse(languageBag)
+        callback && callback()
+      }
+    }
+
+    
+    
+    
+  </script>
+  </body>
+</html>
