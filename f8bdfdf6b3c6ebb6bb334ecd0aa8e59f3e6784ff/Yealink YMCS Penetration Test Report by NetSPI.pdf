@@ -19,12 +19,12 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
     <meta name="renderer" content="webkit" />
     <meta name="format-detection" content="telephone=no" />
-    <meta name="version" content="prod-v10-sp3.1-34"/>
+    <meta name="version" content="prod-v10-sp3.1-35"/>
     <meta name="keywords" content="Yealink,Conference Phone,IP Phone,sip phone,voip phones,wireless headset,phone headset,Video Conferencing,microsoft teams phone,video conferencing devices"/>
     <meta name="description" content="Yealink (Stock Code: 300628) is a global brand that specializes in video conferencing, voice communications and collaboration solutions with best-in-class quality, innovative technology and user-friendly experience. As one of the best providers in more than 140 countries and regions, Yealink ranks No.1 in the global market share of SIP phone shipments (Global IP Desktop Phone Growth Excellence Leadership Award Report, Frost &amp; Sullivan, 2019)."/>
     <title>Yealink | UC &amp; C Terminal, Video Collaboration, Conference Phone, IP Phone, Headsets &amp; Video Conferencing</title>
     <link rel="icon" href="/public/favicon.ico"/>
-    <link rel="stylesheet" href="/public/fonts/iconfont.css?v=prod-v10-sp3.1-34"/>
+    <link rel="stylesheet" href="/public/fonts/iconfont.css?v=prod-v10-sp3.1-35"/>
     <style>
       @font-face {
         font-family: articleFontRegular;
@@ -43,18 +43,18 @@
         src: url("/public/font/Product-Sans-Bold-3.ttf");
       }
     </style>
-    <link rel="stylesheet" href="/public/css/styles.css?v=prod-v10-sp3.1-34"/>
+    <link rel="stylesheet" href="/public/css/styles.css?v=prod-v10-sp3.1-35"/>
     
-    <link href="/public/web-dist/css/main.20b8432ce1a6ff7a9132.css" rel="stylesheet"><link href="/public/web-dist/css/home.20b8432ce1a6ff7a9132.css" rel="stylesheet">
+    <link href="/public/web-dist/css/main.cc814c613ef0929ad12c.css" rel="stylesheet"><link href="/public/web-dist/css/home.cc814c613ef0929ad12c.css" rel="stylesheet">
     
-    <script type="text/javascript" src="/public/lib/package.js?v=prod-v10-sp3.1-34"></script>
+    <script type="text/javascript" src="/public/lib/package.js?v=prod-v10-sp3.1-35"></script>
     <script type="text/javascript" src="/public/lib/layer/layer.min.js"></script>
     <script type="text/javascript">
       var apiBaseUrl = 'https://www.yealink.com/website-service'
       window.history.scrollRestoration = 'manual'
     </script>
     
-  <link rel="stylesheet" href="/public/css/home.css?v=prod-v10-sp3.1-34" />
+  <link rel="stylesheet" href="/public/css/home.css?v=prod-v10-sp3.1-35" />
 
   </head>
   
@@ -1505,9 +1505,9 @@
     
   <script src="/public/lib/script/classie.js"></script>
   <script src="/public/lib/script/bxslider.js"></script>
-  <script src="/public/lib/script/home.js?v=prod-v10-sp3.1-34"></script>
+  <script src="/public/lib/script/home.js?v=prod-v10-sp3.1-35"></script>
 
-    <script type="text/javascript" src="/public/web-dist/js/main.20b8432ce1a6ff7a9132.js"></script><script type="text/javascript" src="/public/web-dist/js/home.20b8432ce1a6ff7a9132.js"></script>
+    <script type="text/javascript" src="/public/web-dist/js/main.cc814c613ef0929ad12c.js"></script><script type="text/javascript" src="/public/web-dist/js/home.cc814c613ef0929ad12c.js"></script>
 
     
     <script>
