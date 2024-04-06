@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html lang="nl" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
   <head>
-        
     <meta charset="utf-8" />
 <noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
 </noscript><link rel="canonical" href="https://www.econocom.nl/" />
 <link rel="shortlink" href="https://www.econocom.nl/" />
-<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
 <meta name="MobileOptimized" content="width" />
 <meta name="HandheldFriendly" content="true" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -15,34 +14,29 @@
     <link href="/themes/custom/econocom/favicon.png" rel="icon" media="(prefers-color-scheme: light)" />
     <link href="/themes/custom/econocom/favicon-light.png" rel="icon" media="(prefers-color-scheme: dark)" />
     <title>Pagina niet gevonden | Econocom</title>
-        <link rel="stylesheet" href="https://d1azc1qln24ryf.cloudfront.net/200597/econocom-icons/style-cf.css?8vsdow">
-    <link rel="stylesheet" href="https://d1azc1qln24ryf.cloudfront.net/200597/econocom/style-cf.css?qtz7db">
-    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_Qnn57dz4nYUwOtsNChXNFRLMHEymSHwdT94kFhk098c.css" />
-<link rel="stylesheet" media="all" href="/sites/default/files/css/css_N47KIrKndkk3WADVS99wu8HHwE6q1Ar3zeE27vdw6uk.css" />
-<link rel="stylesheet" media="all" href="/sites/default/files/css/css_GczbrIyn9IGSeqMltNJvKSTQS4ZrirI-q0u_85WuNDM.css" />
+    <link rel="stylesheet" href="https://cdn.icomoon.io/200597/econocom-icons/style-cf.css?8vsdow">
+    <link rel="stylesheet" href="https://cdn.icomoon.io/200597/econocom/style-cf.css?qtz7db">
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_UXvKj7RYK5JCW2nP-7lLjUzxAoTJn1ZNgJOaZzULdzE.css?delta=0&amp;language=nl&amp;theme=be&amp;include=eJxdTtsNwjAQWyhwO7BIdUmtknLJoThQyvSUh4Tgx7Isv3TW22CuI5rol-_7sXmMaEFJ9CHXGal7k0TKCLPhrBMCV3YUiUoEJK-evMhkHtV27KvlOoVkW8X69nx4AbnFGZI3SPVW1PIdIeI_fM1YKC_cFx8vhh_p-XgbPpinE2VBZO7gYJn9AeVKVEQ" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_NN4N7mt6CtmjrJWwC5DKL5WYIFS5N0mgiP-ADWtL6OI.css?delta=1&amp;language=nl&amp;theme=be&amp;include=eJxdTtsNwjAQWyhwO7BIdUmtknLJoThQyvSUh4Tgx7Isv3TW22CuI5rol-_7sXmMaEFJ9CHXGal7k0TKCLPhrBMCV3YUiUoEJK-evMhkHtV27KvlOoVkW8X69nx4AbnFGZI3SPVW1PIdIeI_fM1YKC_cFx8vhh_p-XgbPpinE2VBZO7gYJn9AeVKVEQ" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_wb3ib9eHxTO11cd6YknBa1iZrtO8EUW_hIEEhsU9wgk.css?delta=2&amp;language=nl&amp;theme=be&amp;include=eJxdTtsNwjAQWyhwO7BIdUmtknLJoThQyvSUh4Tgx7Isv3TW22CuI5rol-_7sXmMaEFJ9CHXGal7k0TKCLPhrBMCV3YUiUoEJK-evMhkHtV27KvlOoVkW8X69nx4AbnFGZI3SPVW1PIdIeI_fM1YKC_cFx8vhh_p-XgbPpinE2VBZO7gYJn9AeVKVEQ" />
+
 
     
-
-      <script>
-        window.twttr = (function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0],
-          t = window.twttr || {};
-        if (d.getElementById(id)) return t;
-        js = d.createElement(s);
-        js.id = id;
-        js.src = "https://platform.twitter.com/widgets.js";
-        fjs.parentNode.insertBefore(js, fjs);
-
-        t._e = [];
-        t.ready = function(f) {
-          t._e.push(f);
-        };
-
-        return t;
-      }(document, "script", "twitter-wjs"));
-    </script>
           <meta name="google-site-verification" content="4vWi_GtJLoHIW6Cog9CGxFBx519Iz3dfU9yZesfAAwg" />
-    </head>
+    
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('consent', 'default', {
+          'ad_storage': 'denied',
+          'ad_user_data': 'denied',
+          'ad_personalization': 'denied',
+          'analytics_storage': 'denied'
+      });
+      gtag('set', 'url_passthrough', false);
+      gtag('set', 'ads_data_redaction', true);
+    </script>
+  </head>
   <body class="tint-main lang-nl path-politique-de-remuneration-approuvee-2021-econocom-group-se-0pdf" data-lang-prefix="">
         <a href="#main-content" class="visually-hidden focusable skip-link">
       Overslaan en naar de inhoud gaan
@@ -122,10 +116,10 @@ tags.async=!0,tags.src="https://econocom.piwik.pro/containers/"+id+".js"+qPStrin
           <div class="site-name">
             <a href="/" rel="home">Econocom</a>
           </div>
-          <div class="block block-ecblocks block-menu-header">
+          <div class="menu block block-ecblocks block-menu-header">
   
     
-      <div class="item-list"><ul class="menu"><li><a href="/apparatuur-financiering" title="Flexibele financiering IT en digitale technologie">Financiering</a></li><li><a href="/managed-services" title="Service-oplossingen voor datacenter - en netwerkomgevingen">Services</a></li><li><a href="/workspace-collaboration" title="Workspace &amp; collaboration: audiovisuele &amp; IT-oplossingen">apparatuur</a></li></ul></div>
+      <div class="item-list"><ul><li><a href="/apparatuur-financiering" class="active-trail" title="Flexibele financiering IT en digitale technologie">Financiering</a></li><li><a href="/managed-services" title="Service-oplossingen voor datacenter - en netwerkomgevingen">Services</a></li><li><a href="/workspace-collaboration" title="Workspace &amp; collaboration: audiovisuele &amp; IT-oplossingen">apparatuur</a></li></ul></div>
   </div>
 
           <a href="/contact" class="btn contact">contact</a>
@@ -143,10 +137,10 @@ tags.async=!0,tags.src="https://econocom.piwik.pro/containers/"+id+".js"+qPStrin
         <div class="site-name">
           <a href="/" rel="home">Econocom</a>
         </div>
-        <div class="block block-ecblocks block-follow-us">
+        <div class="menu block block-ecblocks block-follow-us">
   
     
-      <div class="item-list"><ul class="menu"><li><h3>volg ons</h3></li><li><a href="https://www.linkedin.com/company/3643659/" class="icon-ldn" title="LinkedIn"></a></li><li><a href="https://www.linkedin.com/company/3643659/" class="icon-tw" title="Twitter"></a></li></ul></div>
+      <div class="item-list"><ul><li><h3>volg ons</h3></li><li><a href="https://www.linkedin.com/company/3643659/" class="icon-ldn" title="LinkedIn"></a></li><li><a href="https://www.linkedin.com/company/3643659/" class="icon-tw" title="Twitter"></a></li></ul></div>
   </div>
 
         <a href="/contact" class="btn contact">contact</a>
@@ -300,7 +294,7 @@ tags.async=!0,tags.src="https://econocom.piwik.pro/containers/"+id+".js"+qPStrin
 
         </div>
         <div class="submenu"></div>
-        <div class="block block-ecblocks block-push-blog">
+                  <div class="block block-ecblocks block-push-blog">
   
     
       <div style="background-image:url('https://www.econocom.nl/ecmedia/styles/push_blog/s3/header/push-blog_0.png?itok=4RKEyzV7')">
@@ -313,7 +307,7 @@ tags.async=!0,tags.src="https://econocom.piwik.pro/containers/"+id+".js"+qPStrin
 
   </div>
 
-      </div>
+              </div>
     </div>
   </div>
 
@@ -323,10 +317,10 @@ tags.async=!0,tags.src="https://econocom.piwik.pro/containers/"+id+".js"+qPStrin
         <div class="site-name">
           <a href="/" rel="home">Econocom</a>
         </div>
-        <div class="block block-ecblocks block-menu-header">
+        <div class="menu block block-ecblocks block-menu-header">
   
     
-      <div class="item-list"><ul class="menu"><li><a href="/apparatuur-financiering" title="Flexibele financiering IT en digitale technologie">Financiering</a></li><li><a href="/managed-services" title="Service-oplossingen voor datacenter - en netwerkomgevingen">Services</a></li><li><a href="/workspace-collaboration" title="Workspace &amp; collaboration: audiovisuele &amp; IT-oplossingen">apparatuur</a></li></ul></div>
+      <div class="item-list"><ul><li><a href="/apparatuur-financiering" class="active-trail" title="Flexibele financiering IT en digitale technologie">Financiering</a></li><li><a href="/managed-services" title="Service-oplossingen voor datacenter - en netwerkomgevingen">Services</a></li><li><a href="/workspace-collaboration" title="Workspace &amp; collaboration: audiovisuele &amp; IT-oplossingen">apparatuur</a></li></ul></div>
   </div>
 
         <a href="/contact" class="btn contact">contact</a>
@@ -336,7 +330,7 @@ tags.async=!0,tags.src="https://econocom.piwik.pro/containers/"+id+".js"+qPStrin
       </div>
 
       <div class="content">
-        <div class="views-element-container"><div class="view view-search view-id-search view-display-id-default js-view-dom-id-b3e3e0fc3ab47c9f0542567bb6e0deed9c239e9ff879b220ede099196186a31c">
+        <div class="views-element-container"><div class="view view-search view-id-search view-display-id-default js-view-dom-id-c5584c0a2d02223e08c65fe5bbfd6f03b81f33cd9e3a686145343801f9d5e353">
   
     
         <div class="view-filters">
@@ -357,7 +351,6 @@ tags.async=!0,tags.src="https://econocom.piwik.pro/containers/"+id+".js"+qPStrin
     </div>
     
   
-      
           </div>
 </div>
 
@@ -390,10 +383,10 @@ tags.async=!0,tags.src="https://econocom.piwik.pro/containers/"+id+".js"+qPStrin
     <div class="wrapper">
       <div class="content">
         <div class="col1">
-          <div class="block block-ecblocks block-menu-footer">
+          <div class="menu block block-ecblocks block-menu-footer">
   
     
-      <div class="item-list"><ul class="menu"><li><a href="/apparatuur-financiering" title="Flexibele financiering IT en digitale technologie">Financiering</a></li><li><a href="/managed-services" title="Service-oplossingen voor datacenter - en netwerkomgevingen">Services</a></li><li><a href="/workspace-collaboration" title="Workspace &amp; collaboration: audiovisuele &amp; IT-oplossingen">apparatuur</a></li></ul></div>
+      <div class="item-list"><ul><li><a href="/apparatuur-financiering" class="active-trail" title="Flexibele financiering IT en digitale technologie">Financiering</a></li><li><a href="/managed-services" title="Service-oplossingen voor datacenter - en netwerkomgevingen">Services</a></li><li><a href="/workspace-collaboration" title="Workspace &amp; collaboration: audiovisuele &amp; IT-oplossingen">apparatuur</a></li></ul></div>
   </div>
 
           <div class="address">
@@ -442,10 +435,10 @@ Computerweg 22<br />
           
         </div>
         <div class="col2">
-          <div class="block block-ecblocks block-follow-us">
+          <div class="menu block block-ecblocks block-follow-us">
   
     
-      <div class="item-list"><ul class="menu"><li><h3>volg ons</h3></li><li><a href="https://www.linkedin.com/company/3643659/" class="icon-ldn" title="LinkedIn"></a></li><li><a href="https://www.linkedin.com/company/3643659/" class="icon-tw" title="Twitter"></a></li></ul></div>
+      <div class="item-list"><ul><li><h3>volg ons</h3></li><li><a href="https://www.linkedin.com/company/3643659/" class="icon-ldn" title="LinkedIn"></a></li><li><a href="https://www.linkedin.com/company/3643659/" class="icon-tw" title="Twitter"></a></li></ul></div>
   </div>
 
         </div>
@@ -495,10 +488,8 @@ Computerweg 22<br />
   </div>
 
     
-    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"nl"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"ajax_loader\/ajax_loader.throbber,asset_injector\/css\/dell_page,be\/global-styling,classy\/base,classy\/messages,core\/normalize,ecBlocks\/websites_list,econocom\/global-styling,purge_ajax_processor\/trigger_purge,system\/base,views\/views.ajax,views\/views.module,views_show_more\/views_show_more","theme":"be","theme_token":null},"ajaxTrustedUrl":{"\/system\/404":true},"ajaxLoader":{"markup":"\u003Cdiv class=\u0022ajax-throbber sk-spinner sk-spinner-pulse\u0022\u003E\u003C\/div\u003E","hideAjaxMessage":true,"alwaysFullscreen":true,"throbberPosition":"body"},"ckeditorheight":{"offset":1,"line_height":1.5,"unit":"em","disable_autogrow":false},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:b3e3e0fc3ab47c9f0542567bb6e0deed9c239e9ff879b220ede099196186a31c":{"view_name":"search","view_display_id":"default","view_args":"","view_path":"\/politique-de-remuneration-approuvee-2021-econocom-group-se_0.pdf","view_base_path":null,"view_dom_id":"b3e3e0fc3ab47c9f0542567bb6e0deed9c239e9ff879b220ede099196186a31c","pager_element":0}}},"user":{"uid":0,"permissionsHash":"0c1162e2d1d2517cd15705c35e9311e08a39858e05b2be7feabd388cb0f159a1"}}</script>
-<script src="/sites/default/files/js/js_36PuyDLLLZfu2DcT_pj4rfEeEajCYjW6cQNq0yHcMUg.js" data-cookieconsent="ignore"></script>
-<script src="/modules/contrib/purge_ajax_processor/js/trigger_purge.js?s66hf0" defer async data-cookieconsent="ignore"></script>
-<script src="/sites/default/files/js/js_JNtg10DYmSq0ppvn1xfd_GtAjSturUfs2qd2gF9MPjk.js" data-cookieconsent="ignore"></script>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"nl"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJxdjlEOwjAMQy9UyB24yJR21uhIG1QXxjg9A4QQ_FiWZT9ZZ70N5jqiiX79vh-bx4gWlEQfcp2RujdJpIwwG846IUTIZB7Vduyr5TqFZNtglajExxeQW5kheYNUb0Ut3xGQDubpRFkQmTs4WGbfYq-evPyTubKjvMnXjIXy0v3z9U9QfLwYHty4VEQ","theme":"be","theme_token":null},"ajaxTrustedUrl":{"\/system\/404":true},"ajaxLoader":{"markup":"\u003Cdiv class=\u0022ajax-throbber sk-pulse\u0022\u003E\u003C\/div\u003E","hideAjaxMessage":true,"alwaysFullscreen":true,"throbberPosition":"body"},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:c5584c0a2d02223e08c65fe5bbfd6f03b81f33cd9e3a686145343801f9d5e353":{"view_name":"search","view_display_id":"default","view_args":"","view_path":"\/politique-de-remuneration-approuvee-2021-econocom-group-se_0.pdf","view_base_path":null,"view_dom_id":"c5584c0a2d02223e08c65fe5bbfd6f03b81f33cd9e3a686145343801f9d5e353","pager_element":0}}},"user":{"uid":0,"permissionsHash":"0c1162e2d1d2517cd15705c35e9311e08a39858e05b2be7feabd388cb0f159a1"}}</script>
+<script src="/sites/default/files/js/js_qwTRiBDaevYlJcTTDiVH8E5zvDr_7WXuTqA5Ttso0XM.js?scope=footer&amp;delta=0&amp;language=nl&amp;theme=be&amp;include=eJxdTtsNwjAQWyhwO7BIdUmtknLJoThQyvSUh4Tgx7Isv3TW22CuI5rol-_7sXmMaEFJ9CHXGal7k0TKCLPhrBMCV3YUiUoEJK-evMhkHtV27KvlOoVkW8X69nx4AbnFGZI3SPVW1PIdIeI_fM1YKC_cFx8vhh_p-XgbPpinE2VBZO7gYJn9AeVKVEQ" data-cookieconsent="ignore"></script>
 
   </body>
 </html>
